@@ -1,0 +1,594 @@
+"IF YOU FIND ANY MISMATCH, FOLLOW CONNECT.",,,,,,,,,,,,
+Course,Theory Equivalent,Lab Equivalent,Theory Initial,Theory Day,"Theory Time
+(1hr 20min)",Theory Room,Lab Faculty,Lab Day,Lab Time (3hr),Lab Room,,
+CSE101-01,,,NZRF,MON+WED,2:00 PM,10B-13C,"SBHN,CESF",SUN,11:00 AM,FT11-04L,,niaz.ashraf@bracu.ac.bd
+CSE101-02,,,RBR,MON+WED,11:00 AM,09D-17C,"CESF,AQJ",TUE,11:00 AM,FT11-03L,,rakin.rabbani@bracu.ac.bd
+CSE101-03,,,RBR,MON+WED,12:30 PM,09D-17C,"SLAR,CQAE",THU,2:00 PM,FT11-04L,,rakin.rabbani@bracu.ac.bd
+CSE101-04,,,SBHN,SUN+TUE,2:00 PM,09H-35C,"RBR,TRZA",MON,2:00 PM,FT11-04L,,sabbir.hossain@bracu.ac.bd
+CSE101-05,,,SBHN,SUN+TUE,3:30 PM,09H-35C,"SBHN,SLAR",WED,11:00 AM,FT11-04L,,sabbir.hossain@bracu.ac.bd
+CSE101-06,,,SBHN,MON+WED,2:00 PM,09D-17C,"SLAR,CQAE",SAT,8:00 AM,FT11-03L,,sabbir.hossain@bracu.ac.bd
+CSE103-01,,,XXX,XXX,11:00 AM,XXX,"FDM,SLAR",SAT,2:00 PM,11B-20L,,
+CSE110-01,,,MSI,MON+WED,3:30 PM,10A-04C,"AOH,ANNH",THU,8:00 AM,09B-08L,,md.saiful.islam@bracu.ac.bd
+CSE110-02,,,MSI,SUN+TUE,11:00 AM,10A-10C,"MSI,SMUR",WED,8:00 AM,09B-08L,,md.saiful.islam@bracu.ac.bd
+CSE110-03,,,MSI,SUN+TUE,12:30 PM,10A-10C,"SMUR,RKBM",WED,11:00 AM,09B-08L,,md.saiful.islam@bracu.ac.bd
+CSE110-04,,,MSI,SUN+TUE,3:30 PM,10A-10C,"MSI,CAKM",WED,11:00 AM,09B-10L,,md.saiful.islam@bracu.ac.bd
+CSE110-05,,,TAW,MON+WED,11:00 AM,10A-05C,"MAF,AOH",THU,11:00 AM,09B-08L,,tawhid.anwar@bracu.ac.bd
+CSE110-06,,,ADU,SUN+TUE,12:30 PM,09H-33C,"ANNH,MVH",WED,8:00 AM,09B-09L,,ahmed.ruhan@bracu.ac.bd
+CSE110-07,,,RAK,SUN+TUE,8:00 AM,10A-05C,"NQM,NTN",THU,11:00 AM,09B-09L,,rubayat.ahmed@bracu.ac.bd
+CSE110-08,,,AOH,SUN+TUE,3:30 PM,09A-07C,"AFA,KNI",WED,11:00 AM,09B-09L,,ext.abu.hasme@bracu.ac.bd
+CSE110-09,,,KNI,MON+WED,2:00 PM,09H-34C,"ANNH,CAYR",THU,2:00 PM,09B-08L,,nazia.iqbal@bracu.ac.bd
+CSE110-10,,,KNI,MON+WED,3:30 PM,09H-34C,"WLV,ANT",THU,8:00 AM,09B-09L,,nazia.iqbal@bracu.ac.bd
+CSE110-11,,,MAU,SUN+TUE,9:30 AM,09A-03C,"WLV,DFD",THU,2:00 PM,09B-09L,,marshia.nujhat@bracu.ac.bd
+CSE110-12,,,ADU,SUN+TUE,11:00 AM,09H-33C,"CSAB,CAKM",THU,2:00 PM,09B-10L,,ahmed.ruhan@bracu.ac.bd
+CSE110-13,,,MVH,SAT+THU,11:00 AM,07H-27C,"NTN,RKBM",WED,8:00 AM,09B-10L,,mohammad.naveed@bracu.ac.bd
+CSE110-14,,,MVH,SAT+THU,12:30 PM,07H-27C,"WLV,MVH",WED,2:00 PM,09B-09L,,mohammad.naveed@bracu.ac.bd
+CSE110-15,,,ATY,MON+WED,12:30 PM,09A-05C,"CAKM,CSAB",THU,8:00 AM,09B-11L,,ateya.ahmed@bracu.ac.bd
+CSE110-16,,,ANT,MON+WED,8:00 AM,09H-34C,"ANNH,SLAR",THU,11:00 AM,09B-11L,,ext.anika.tasnim@bracu.ac.bd
+CSE110-17,,,YND,MON+WED,11:00 AM,09A-05C,"ANV,CNFH",THU,11:00 AM,09F-27L,,yasmin.nadia@bracu.ac.bd
+CSE111-01,,,ANK,MON+WED,2:00 PM,09H-33C,"AIB,ATY",TUE,11:00 AM,09B-08L,,abdullah.alnakib@bracu.ac.bd
+CSE111-02,,,TAW,SUN+TUE,11:00 AM,10A-05C,"TAW,AOH",WED,2:00 PM,12F-32L,,tawhid.anwar@bracu.ac.bd
+CSE111-03,,,TAW,SUN+TUE,12:30 PM,10A-05C,"CAKM,HBN",WED,2:00 PM,12D-27L,,tawhid.anwar@bracu.ac.bd
+CSE111-04,,,TAW,MON+WED,12:30 PM,10A-05C,"TAW,RKBM",THU,11:00 AM,12F-32L,,tawhid.anwar@bracu.ac.bd
+CSE111-05,,,ADU,MON+WED,8:00 AM,10B-13C,"HBN,AOH",TUE,8:00 AM,09B-09L,,ahmed.ruhan@bracu.ac.bd
+CSE111-06,,,ADU,MON+WED,9:30 AM,10B-13C,"FGZ,AVB",TUE,11:00 AM,09B-09L,,ahmed.ruhan@bracu.ac.bd
+CSE111-07,,,RKBM,SUN+TUE,2:00 PM,08H-22C,"AFA,CRHB",WED,2:00 PM,09B-11L,,mohammad.rakibul@bracu.ac.bd
+CSE111-08,,,KNI,SUN+TUE,11:00 AM,08H-22C,"TMD,ADU",WED,11:00 AM,09B-11L,,nazia.iqbal@bracu.ac.bd
+CSE111-09,,,KNI,SUN+TUE,12:30 PM,08H-22C,"ANV,CNFH",TUE,8:00 AM,09B-08L,,nazia.iqbal@bracu.ac.bd
+CSE111-10,,,AIB,SUN+TUE,8:00 AM,10A-04C,"AVB,QUZA",WED,8:00 AM,09F-27L,,abu.ibrahim@bracu.ac.bd
+CSE111-11,,,AIB,SUN+TUE,9:30 AM,10A-04C,"AVB,FEK",WED,11:00 AM,09F-27L,,abu.ibrahim@bracu.ac.bd
+CSE111-13,,,RKBM,SUN+TUE,3:30 PM,08H-22C,"ATY,CSSA",WED,2:00 PM,09E-21L,,mohammad.rakibul@bracu.ac.bd
+CSE111-14,,,AFA,SAT+THU,11:00 AM,09A-02C,"CNFH,AOH",WED,8:00 AM,09B-11L,,afroza.akther@bracu.ac.bd
+CSE111-15,,,MAU,MON+WED,9:30 AM,09A-03C,"AFA,AVB",TUE,8:00 AM,09B-10L,,marshia.nujhat@bracu.ac.bd
+CSE111-16,,,MAU,MON+WED,11:00 AM,09A-03C,"ANK,AFA",TUE,11:00 AM,09B-10L,,marshia.nujhat@bracu.ac.bd
+CSE111-17,,,QUZA,MON+WED,12:30 PM,09H-34C,"KNI,YND",TUE,2:00 PM,09B-08L,,quazi.ashikur@bracu.ac.bd
+CSE220-01,,,RAK,SUN+TUE,9:30 AM,10A-05C,"ASMN,CESF",MON,8:00 AM,09B-08L,,rubayat.ahmed@bracu.ac.bd
+CSE220-02,,,RAK,MON+WED,2:00 PM,10A-10C,"ASMN,SKIB",SUN,8:00 AM,09B-09L,,rubayat.ahmed@bracu.ac.bd
+CSE220-03,,,RAK,MON+WED,3:30 PM,10A-10C,"WBH,KKS",SUN,11:00 AM,09B-09L,,rubayat.ahmed@bracu.ac.bd
+CSE220-04,,,SHBZ,SAT+THU,8:00 AM,10A-05C,"MZG,SWG",MON,11:00 AM,09B-11L,,ext.shams.bayzid@bracu.ac.bd
+CSE220-05,,,SHBZ,SAT+THU,9:30 AM,10A-05C,"CESF,ANT",MON,2:00 PM,09B-11L,,ext.shams.bayzid@bracu.ac.bd
+CSE220-06,,,MAHR,SUN+TUE,8:00 AM,10B-13C,"RAK,AYO",MON,11:00 AM,09B-08L,,mahrin.tasfe@bracu.ac.bd
+CSE220-07,,,MAHR,SUN+TUE,9:30 AM,10B-13C,"ASMN,ATY",MON,2:00 PM,09B-08L,,mahrin.tasfe@bracu.ac.bd
+CSE220-08,,,KKS,SAT+THU,2:00 PM,10B-15C,"RAK,SKIB",SUN,2:00 PM,09B-09L,,md.khaliduzzaman@bracu.ac.bd
+CSE220-09,,,MAHR,SAT+THU,11:00 AM,08H-22C,"RFTS,ASMN",SUN,11:00 AM,09B-08L,,mahrin.tasfe@bracu.ac.bd
+CSE220-10,,,MAHR,SAT+THU,12:30 PM,08H-22C,"CSSN,AJK",SUN,2:00 PM,09B-08L,,mahrin.tasfe@bracu.ac.bd
+CSE220-11,,,MUNR,MON+WED,11:00 AM,09H-33C,"MZG,ANT",SUN,8:00 AM,09B-10L,,abm.muntasir@bracu.ac.bd
+CSE220-12,,,AIB,MON+WED,11:00 AM,09H-32C,"AIB,FDM",SUN,11:00 AM,09B-10L,,abu.ibrahim@bracu.ac.bd
+CSE220-13,,,AIB,MON+WED,12:30 PM,09H-32C,"AJA,MRIA",SUN,2:00 PM,09B-10L,,abu.ibrahim@bracu.ac.bd
+CSE220-14,,,SWG,MON+WED,9:30 AM,09H-32C,"ZMD,IRZ",SUN,8:00 AM,09B-11L,,swattic.ghose@bracu.ac.bd
+CSE220-15,,,SWG,MON+WED,2:00 PM,09H-32C,"SLAR,MZG",SUN,11:00 AM,09B-11L,,swattic.ghose@bracu.ac.bd
+CSE220-16,,,KKS,SUN+TUE,2:00 PM,09C-13C,"AJA,MRIA",MON,2:00 PM,09B-09L,,md.khaliduzzaman@bracu.ac.bd
+CSE220-17,,,KKS,SUN+TUE,3:30 PM,09C-13C,"IRZ,CMHQ",MON,8:00 AM,09B-10L,,md.khaliduzzaman@bracu.ac.bd
+CSE220-18,,,MNP,MON+WED,8:00 AM,09H-32C,"CESF,MAF",SUN,2:00 PM,09B-11L,,mushfique.nasir@bracu.ac.bd
+CSE220-19,,,ITTSC,SUN+TUE,2:00 PM,09A-05C,"MNP,ASRF",MON,11:00 AM,09B-10L,,ittehad.chowdhury@bracu.ac.bd
+CSE220-20,,,ITTSC,SUN+TUE,3:30 PM,09A-05C,"SKIB,CSSA",MON,2:00 PM,09B-10L,,ittehad.chowdhury@bracu.ac.bd
+CSE220-21,,,HFN,SUN+TUE,12:30 PM,09A-03C,"MZG,FDM",MON,8:00 AM,09B-11L,,araf.noshin@bracu.ac.bd
+CSE220-22,,,RFTS,SAT+THU,2:00 PM,09H-34C,"ASRF,FDM",SUN,8:00 AM,09B-08L,,rifa.tasfiya@bracu.ac.bd
+CSE221-01,,,MMM,SAT+THU,8:00 AM,07D-19C,"ARD,CMHQ",SUN,8:00 AM,09E-21L,,mostakim@bracu.ac.bd
+CSE221-02,,,IBA,SUN+TUE,2:00 PM,10B-13C,"ARD,ANV",SAT,8:00 AM,09B-08L,,imran.azad@bracu.ac.bd
+CSE221-03,,,IBA,SUN+TUE,3:30 PM,10B-13C,"ARD,ASRF",SAT,11:00 AM,09B-08L,,imran.azad@bracu.ac.bd
+CSE221-04,,,IBA,MON+WED,2:00 PM,10B-15C,"ARD,AYO",SUN,11:00 AM,09E-21L,,imran.azad@bracu.ac.bd
+CSE221-05,,,IBA,MON+WED,3:30 PM,10B-15C,"CAYR,AYO",SUN,2:00 PM,09F-24L,,imran.azad@bracu.ac.bd
+CSE221-06,,,FGZ,MON+WED,8:00 AM,07H-27C,"ZLNM,TAP",SUN,8:00 AM,09F-25L,,fakhruddin.gazzali@bracu.ac.bd
+CSE221-07,,,FGZ,MON+WED,9:30 AM,07H-27C,"KKP,MRIA",SUN,11:00 AM,09F-25L,,fakhruddin.gazzali@bracu.ac.bd
+CSE221-08,,,DPU,SUN+TUE,8:00 AM,09A-06C,"ARD,MZW",SAT,2:00 PM,09B-08L,,shoaib.ahmed@bracu.ac.bd
+CSE221-09,,,MUNR,SUN+TUE,11:00 AM,09H-34C,"CMHH,MZW",SAT,8:00 AM,09B-09L,,abm.muntasir@bracu.ac.bd
+CSE221-10,,,MUNR,SUN+TUE,12:30 PM,09H-34C,"TAP,MZW",SAT,11:00 AM,09B-09L,,abm.muntasir@bracu.ac.bd
+CSE221-11,,,ANK,SUN+TUE,2:00 PM,09C-16T,"FDZ,SJM",SAT,2:00 PM,09B-09L,,abdullah.alnakib@bracu.ac.bd
+CSE221-12,,,ANK,SUN+TUE,2:00 PM,09C-16T,"ASRF,FDZ",SAT,8:00 AM,09B-10L,,abdullah.alnakib@bracu.ac.bd
+CSE221-13,,,ANK,SUN+TUE,2:00 PM,09C-16T,"AKHD,MRIA",SAT,11:00 AM,09B-10L,,abdullah.alnakib@bracu.ac.bd
+CSE221-14,,,TAP,SAT+THU,2:00 PM,10A-10C,"FGZ,ANK",SUN,11:00 AM,09F-24L,,tasnim.ahsan@bracu.ac.bd
+CSE221-15,,,TAP,SAT+THU,3:30 PM,10A-10C,"ARD,CRHB",SUN,2:00 PM,09E-21L,,tasnim.ahsan@bracu.ac.bd
+CSE221-16,,,AYO,MON+WED,2:00 PM,09B-12C,"ANWE,CSYR",SAT,2:00 PM,09B-10L,,ariyan.hossain@bracu.ac.bd
+CSE221-17,,,AYO,MON+WED,3:30 PM,09B-12C,"AROY,CESF",SAT,8:00 AM,09B-11L,,ariyan.hossain@bracu.ac.bd
+CSE221-19,,,WHMJ,SAT+THU,12:30 PM,09D-18C,"IBA,MZW",SUN,11:00 AM,09E-22L,,wahida.mahjabin@bracu.ac.bd
+CSE221-20,,,FBAW,SUN+TUE,11:00 AM,10B-15C,"AROY,CESF",SAT,11:00 AM,09B-11L,,faria.awal@bracu.ac.bd
+CSE221-21,,,FBAW,SUN+TUE,12:30 PM,10B-15C,"CSSA,FBAW",SAT,2:00 PM,09B-11L,,faria.awal@bracu.ac.bd
+CSE221-22,,,FBAW,SAT+THU,11:00 AM,09D-17C,"ZLNM,ANWE",SUN,2:00 PM,09E-22L,,faria.awal@bracu.ac.bd
+CSE221-23,,,MZG,SAT+THU,9:30 AM,09A-05C,"FBAW,SJM",SUN,8:00 AM,09F-24L,,ahmed.mayeesha@bracu.ac.bd
+CSE230-01,,,NZRF,SUN+TUE,2:00 PM,10B-15C,,,,,,niaz.ashraf@bracu.ac.bd
+CSE230-02,,,NZRF,SUN+TUE,3:30 PM,10B-15C,,,,,,niaz.ashraf@bracu.ac.bd
+CSE230-03,,,NZRF,MON+WED,3:30 PM,10B-13C,,,,,,niaz.ashraf@bracu.ac.bd
+CSE230-04,,,TSM,MON+WED,9:30 AM,10B-15C,,,,,,mirza.mugdho@bracu.ac.bd
+CSE230-05,,,TSM,SUN+TUE,11:00 AM,10B-13C,,,,,,mirza.mugdho@bracu.ac.bd
+CSE230-06,,,TSM,SUN+TUE,12:30 PM,10B-13C,,,,,,mirza.mugdho@bracu.ac.bd
+CSE230-07,,,AVB,SAT+THU,12:30 PM,10B-13C,,,,,,avinandan@bracu.ac.bd
+CSE230-08,,,ANWE,SUN+TUE,8:00 AM,07F-22C,,,,,,abdullah.nayem@bracu.ac.bd
+CSE230-09,,,FIC,SUN+TUE,11:00 AM,09A-03C,,,,,,fatiha.ishrar@bracu.ac.bd
+CSE230-10,,,PSMD,MON+WED,12:30 PM,09A-06C,,,,,,prothito.shovon@bracu.ac.bd
+CSE230-11,,,PSMD,MON+WED,2:00 PM,09A-06C,,,,,,prothito.shovon@bracu.ac.bd
+CSE230-12,,,QUZA,SUN+TUE,9:30 AM,09B-12C,,,,,,quazi.ashikur@bracu.ac.bd
+CSE230-13,,,QUZA,SUN+TUE,11:00 AM,09B-12C,,,,,,quazi.ashikur@bracu.ac.bd
+CSE230-14,,,FARS,SUN+TUE,9:30 AM,09A-04C,,,,,,farhan.shahriar@bracu.ac.bd
+CSE230-15,,,ANWE,SUN+TUE,9:30 AM,07F-22C,,,,,,abdullah.nayem@bracu.ac.bd
+CSE230-16,,,SLAR,SUN+TUE,8:00 AM,09C-13C,,,,,,ext.sadiul.rafi@bracu.ac.bd
+CSE250-01A,,,AKDB,SUN+TUE,9:30 AM,10B-17C,"MOM,ALSM",SAT,2:00 PM,12B-20L,,ext.angkon.deb@bracu.ac.bd
+CSE250-01B,,,AKDB,SUN+TUE,9:30 AM,10B-17C,"ZBH,ARA",SAT,2:00 PM,12B-20L,,ext.angkon.deb@bracu.ac.bd
+CSE250-02A,,,AQT,SUN+TUE,12:30 PM,10B-17C,"PDS,SEF",THU,2:00 PM,12B-20L,,aniqa.tabassum@bracu.ac.bd
+CSE250-02B,,,AQT,SUN+TUE,12:30 PM,10B-17C,"SDQ,AKDB",THU,2:00 PM,12B-20L,,aniqa.tabassum@bracu.ac.bd
+CSE250-03A,,,HMH,SUN+TUE,2:00 PM,10B-17C,"NFS,RAS",MON,8:00 AM,12B-20L,,hamidul.hussain@bracu.ac.bd
+CSE250-03B,,,HMH,SUN+TUE,2:00 PM,10B-17C,"RAO,ZBH",MON,8:00 AM,12B-20L,,hamidul.hussain@bracu.ac.bd
+CSE250-04A,,,NFS,SUN+TUE,3:30 PM,10B-17C,"PDS,HMH",WED,11:00 AM,12B-20L,,ext.nafis.faisal@bracu.ac.bd
+CSE250-04B,,,NFS,SUN+TUE,3:30 PM,10B-17C,"SDQ,SEF",WED,11:00 AM,12B-20L,,ext.nafis.faisal@bracu.ac.bd
+CSE250-05A,,,ZAZ,MON+WED,8:00 AM,10B-17C,"TAV,FFR",SUN,2:00 PM,FT10-01L,,ihzaz.sadik@bracu.ac.bd
+CSE250-06A,,,SDS,MON+WED,11:00 AM,10B-17C,"FFR,MHY",SAT,8:00 AM,12B-20L,,shadman.shahriar@bracu.ac.bd
+CSE250-06B,,,SDS,MON+WED,11:00 AM,10B-17C,"ALSM,ARA",SAT,8:00 AM,12B-20L,,shadman.shahriar@bracu.ac.bd
+CSE250-07A,,,AKJ,MON+WED,2:00 PM,10B-17C,"MHY,RFQ",THU,8:00 AM,12B-20L,,anjum.akib@bracu.ac.bd
+CSE250-07B,,,AKJ,MON+WED,2:00 PM,10B-17C,"ZBH,AKDB",THU,8:00 AM,12B-20L,,anjum.akib@bracu.ac.bd
+CSE250-08A,,,FFR,MON+WED,3:30 PM,10B-17C,"FFR,AKDB",TUE,11:00 AM,FT10-01L,,md.fatin@bracu.ac.bd
+CSE250-08B,,,FFR,MON+WED,3:30 PM,10B-17C,"AKJ,ARA",TUE,11:00 AM,FT11-01L,,md.fatin@bracu.ac.bd
+CSE250-09A,,,PDS,MON+WED,3:30 PM,07H-26C,"PDS,THL",SUN,11:00 AM,12B-20L,,purbayan.das@bracu.ac.bd
+CSE250-09B,,,PDS,MON+WED,3:30 PM,07H-26C,"UTS,SDL",SUN,11:00 AM,12B-20L,,purbayan.das@bracu.ac.bd
+CSE250-10B,,,MHY,SAT+THU,11:00 AM,10B-17C,"RAO,ARPD",TUE,8:00 AM,FT10-01L,,ext.abu.musa@bracu.ac.bd
+CSE250-11A,,,RFQ,SAT+THU,12:30 PM,10B-17C,"SDQ,HMH",MON,11:00 AM,12B-20L,,ext.rafatul.haq@bracu.ac.bd
+CSE250-11B,,,RFQ,SAT+THU,12:30 PM,10B-17C,"AQT,MHY",MON,11:00 AM,12B-20L,,ext.rafatul.haq@bracu.ac.bd
+CSE250-12A,,,SDL,SAT+THU,2:00 PM,10B-17C,"HMH,ARA",WED,2:00 PM,12B-20L,,shadmin.sultana@bracu.ac.bd
+CSE250-12B,,,SDL,SAT+THU,2:00 PM,10B-17C,"ZIZE,SDL",WED,2:00 PM,12B-20L,,shadmin.sultana@bracu.ac.bd
+CSE251-01A,,,UTS,SUN+TUE,9:30 AM,09A-01C,"SEF,SZZ",SAT,11:00 AM,12B-20L,,utsab.saha@bracu.ac.bd
+CSE251-01B,,,UTS,SUN+TUE,9:30 AM,09A-01C,"MOM,SHJR",SAT,11:00 AM,12B-20L,,utsab.saha@bracu.ac.bd
+CSE251-02A,,,MOM,SUN+TUE,11:00 AM,09A-01C,"NUR,RAS",THU,8:00 AM,FT10-01L,,moynul.moni@bracu.ac.bd
+CSE251-02B,,,MOM,SUN+TUE,11:00 AM,09A-01C,"UPM,SHJR",THU,8:00 AM,FT11-01L,,moynul.moni@bracu.ac.bd
+CSE251-03A,,,RAO,SUN+TUE,12:30 PM,09A-01C,"HMH,SDL",MON,8:00 AM,FT10-01L,,ext.mohammed.radoan@bracu.ac.bd
+CSE251-03B,,,RAO,SUN+TUE,12:30 PM,09A-01C,"PDS,ALSM",MON,8:00 AM,FT11-01L,,ext.mohammed.radoan@bracu.ac.bd
+CSE251-04A,,,PDS,SUN+TUE,2:00 PM,09A-01C,"SZZ,SEF",WED,8:00 AM,12B-20L,,purbayan.das@bracu.ac.bd
+CSE251-05A,,,AQT,MON+WED,9:30 AM,09A-01C,"SDS,PDS",THU,11:00 AM,12B-20L,,aniqa.tabassum@bracu.ac.bd
+CSE251-05B,,,AQT,MON+WED,9:30 AM,09A-01C,"SDQ,SZZ",THU,11:00 AM,12B-20L,,aniqa.tabassum@bracu.ac.bd
+CSE251-06A,,,TAV,MON+WED,11:00 AM,09A-01C,"SZZ,FFR",SAT,2:00 PM,FT10-01L,,tarvir.anjum@bracu.ac.bd
+CSE251-06B,,,TAV,MON+WED,11:00 AM,09A-01C,"MHY,AKDB",SAT,2:00 PM,FT11-01L,,tarvir.anjum@bracu.ac.bd
+CSE251-07A,,,FFR,MON+WED,12:30 PM,09A-01C,"ZAZ,RAO",SUN,8:00 AM,12B-20L,,md.fatin@bracu.ac.bd
+CSE251-07B,,,FFR,MON+WED,12:30 PM,09A-01C,"AQT,MOM",SUN,8:00 AM,12B-20L,,md.fatin@bracu.ac.bd
+CSE251-08A,,,AKJ,MON+WED,3:30 PM,09A-01C,"PDS,ARPD",TUE,11:00 AM,12B-20L,,anjum.akib@bracu.ac.bd
+CSE251-08B,,,AKJ,MON+WED,3:30 PM,09A-01C,"SDQ,NFS",TUE,11:00 AM,12B-20L,,anjum.akib@bracu.ac.bd
+CSE251-09A,,,SEF,SAT+THU,9:30 AM,09A-01C,"SDQ,TAV",SUN,11:00 AM,FT10-01L,,ext.sheikh.ahmed@bracu.ac.bd
+CSE251-09B,,,SEF,SAT+THU,9:30 AM,09A-01C,"TSE,FFR",SUN,11:00 AM,FT11-01L,,ext.sheikh.ahmed@bracu.ac.bd
+CSE251-10A,,,SDL,SAT+THU,11:00 AM,09A-01C,"TAV,NUR",TUE,2:00 PM,FT10-01L,,shadmin.sultana@bracu.ac.bd
+CSE251-10B,,,SDL,SAT+THU,11:00 AM,09A-01C,"AKJ,ALSM",TUE,2:00 PM,FT11-01L,,shadmin.sultana@bracu.ac.bd
+CSE251-11A,,,HMH,SUN+TUE,3:30 PM,09A-01C,"ZBH,MHY",MON,2:00 PM,FT10-01L,,hamidul.hussain@bracu.ac.bd
+CSE251-11B,,,HMH,SUN+TUE,3:30 PM,09A-01C,"UTS,RFQ",MON,2:00 PM,FT11-01L,,hamidul.hussain@bracu.ac.bd
+CSE260-01A,,,DZK,SUN+TUE,12:30 PM,09E-20T,"DZK,ADD",THU,8:00 AM,FT10-04L,,ziaul.karim@bracu.ac.bd
+CSE260-01B,,,DZK,SUN+TUE,12:30 PM,09E-20T,"MDF,MHM",THU,8:00 AM,FT10-03L,,ziaul.karim@bracu.ac.bd
+CSE260-02A,,,DZK,SUN+TUE,12:30 PM,09E-20T,"MDF,LMI",THU,11:00 AM,FT10-03L,,ziaul.karim@bracu.ac.bd
+CSE260-02B,,,DZK,SUN+TUE,12:30 PM,09E-20T,"DZK,PBK",THU,11:00 AM,FT10-04L,,ziaul.karim@bracu.ac.bd
+CSE260-03A,,,DZK,SUN+TUE,12:30 PM,09E-20T,"TWK,NQM",WED,8:00 AM,FT10-04L,,ziaul.karim@bracu.ac.bd
+CSE260-03B,,,DZK,SUN+TUE,12:30 PM,09E-20T,"PRC,NMP",WED,8:00 AM,FT11-01L,,ziaul.karim@bracu.ac.bd
+CSE260-04A,,,MSMA,SUN+TUE,9:30 AM,07D-20C,"RFF,CNZR",WED,11:00 AM,FT10-04L,,shamim.mia@bracu.ac.bd
+CSE260-04B,,,MSMA,SUN+TUE,9:30 AM,07D-20C,"CABS,NQM",WED,2:00 PM,FT10-04L,,shamim.mia@bracu.ac.bd
+CSE260-05A,,,PBK,SUN+TUE,8:00 AM,09A-07C,"DZK,LMI",THU,2:00 PM,FT10-03L,,partha.bhoumik@bracu.ac.bd
+CSE260-05B,,,PBK,SUN+TUE,8:00 AM,09A-07C,"MDF,AHA",THU,2:00 PM,FT10-04L,,partha.bhoumik@bracu.ac.bd
+CSE260-06A,,,PBK,SUN+TUE,9:30 AM,09A-07C,"AFQ,AKHD",THU,8:00 AM,FT10-02L,,partha.bhoumik@bracu.ac.bd
+CSE260-06B,,,PBK,SUN+TUE,9:30 AM,09A-07C,"THR,AAF",SAT,8:00 AM,FT10-03L,,partha.bhoumik@bracu.ac.bd
+CSE260-07A,,,FIC,SUN+TUE,2:00 PM,09E-20T,"AHA,MAO",THU,11:00 AM,FT10-02L,,fatiha.ishrar@bracu.ac.bd
+CSE260-07B,,,FIC,SUN+TUE,2:00 PM,09E-20T,"CMHH,MHM",THU,2:00 PM,FT10-02L,,fatiha.ishrar@bracu.ac.bd
+CSE260-08A,,,FIC,SUN+TUE,2:00 PM,09E-20T,"FIC,RDS",WED,2:00 PM,FT10-02L,,fatiha.ishrar@bracu.ac.bd
+CSE260-08B,,,FIC,SUN+TUE,2:00 PM,09E-20T,"MCW,CMHH",WED,2:00 PM,FT10-03L,,fatiha.ishrar@bracu.ac.bd
+CSE260-09A,,,FIC,SUN+TUE,2:00 PM,09E-20T,"AWK,RDS",WED,8:00 AM,FT10-02L,,fatiha.ishrar@bracu.ac.bd
+CSE260-09B,,,FIC,SUN+TUE,2:00 PM,09E-20T,"MAO,LMI",WED,8:00 AM,FT10-03L,,fatiha.ishrar@bracu.ac.bd
+CSE260-10A,,,ASAK,SUN+TUE,3:30 PM,09A-04C,"MCW,CAYR",WED,11:00 AM,FT10-02L,,arnob.ankon@bracu.ac.bd
+CSE260-10B,,,ASAK,SUN+TUE,3:30 PM,09A-04C,"MHM,LMI",WED,11:00 AM,FT10-03L,,arnob.ankon@bracu.ac.bd
+CSE260-11A,,,MAJIJ,SAT+THU,8:00 AM,09A-06C,"SUE,CAPN",TUE,8:00 AM,FT10-04L,,majisha.jahan@bracu.ac.bd
+CSE260-11B,,,MAJIJ,SAT+THU,8:00 AM,09A-06C,"CMHQ,SMDS",MON,2:00 PM,FT10-04L,,majisha.jahan@bracu.ac.bd
+CSE260-12A,,,MAJIJ,SAT+THU,9:30 AM,09A-06C,"SMDS,MCW",TUE,11:00 AM,FT10-04L,,majisha.jahan@bracu.ac.bd
+CSE260-12B,,,MAJIJ,SAT+THU,9:30 AM,09A-06C,"MCW,SMDS",TUE,2:00 PM,FT10-04L,,majisha.jahan@bracu.ac.bd
+CSE260-13A,,,MAJIJ,SAT+THU,12:30 PM,09A-06C,"RDS,AWK",TUE,2:00 PM,FT10-02L,,majisha.jahan@bracu.ac.bd
+CSE260-13B,,,MAJIJ,SAT+THU,12:30 PM,09A-06C,"CSSN,LMI",TUE,2:00 PM,FT10-03L,,majisha.jahan@bracu.ac.bd
+CSE260-15A,,,TWK,MON+WED,11:00 AM,08H-22C,"RFF,MVH",SAT,2:00 PM,FT10-02L,,towshik.taj@bracu.ac.bd
+CSE260-15B,,,TWK,MON+WED,11:00 AM,08H-22C,"AAF,NQM",SAT,2:00 PM,FT10-03L,,towshik.taj@bracu.ac.bd
+CSE260-16A,,,TWK,MON+WED,12:30 PM,08H-22C,"AFQ,ADD",SAT,8:00 AM,FT10-02L,,towshik.taj@bracu.ac.bd
+CSE260-16B,,,TWK,MON+WED,12:30 PM,08H-22C,"MDF,MCW",SUN,2:00 PM,FT10-04L,,towshik.taj@bracu.ac.bd
+CSE260-17A,,,AFQ,SUN+TUE,8:00 AM,09A-03C,"FIC,AROY",MON,2:00 PM,FT10-02L,,ashfaqul.haque@bracu.ac.bd
+CSE260-17B,,,AFQ,SUN+TUE,8:00 AM,09A-03C,"MDF,MHM",MON,2:00 PM,FT10-03L,,ashfaqul.haque@bracu.ac.bd
+CSE260-18A,,,AFQ,SUN+TUE,11:00 AM,07F-22C,"CNZR,CSSN",MON,8:00 AM,FT10-02L,,ashfaqul.haque@bracu.ac.bd
+CSE260-18B,,,AFQ,SUN+TUE,11:00 AM,07F-22C,"SMDS,AROY",MON,8:00 AM,FT10-03L,,ashfaqul.haque@bracu.ac.bd
+CSE260-19A,,,SUE,SUN+TUE,12:30 PM,07F-22C,"MAJIJ,CNZR",MON,11:00 AM,FT10-02L,,sukarna.sarkar@bracu.ac.bd
+CSE260-19B,,,SUE,SUN+TUE,12:30 PM,07F-22C,"FIC,NLAM",MON,11:00 AM,FT10-03L,,sukarna.sarkar@bracu.ac.bd
+CSE260-20A,,,SUE,SUN+TUE,2:00 PM,07F-22C,"MDF,NMP",SAT,8:00 AM,FT10-04L,,sukarna.sarkar@bracu.ac.bd
+CSE260-20B,,,SUE,SUN+TUE,2:00 PM,07F-22C,"ANKH,CAPN",SAT,2:00 PM,FT10-04L,,sukarna.sarkar@bracu.ac.bd
+CSE260-21A,,,ASAK,SAT+THU,9:30 AM,07F-22C,"MVH,RDS",TUE,11:00 AM,FT10-02L,,arnob.ankon@bracu.ac.bd
+CSE260-21B,,,ASAK,SAT+THU,9:30 AM,07F-22C,"CSSN,AHA",TUE,11:00 AM,FT10-03L,,arnob.ankon@bracu.ac.bd
+CSE260-22A,,,DZK,SUN+TUE,11:00 AM,09A-04C,"MDF,AHA",SAT,11:00 AM,FT10-04L,,ziaul.karim@bracu.ac.bd
+CSE260-22B,,,DZK,SUN+TUE,11:00 AM,09A-04C,"MAO,NTN",SAT,11:00 AM,FT11-01L,,ziaul.karim@bracu.ac.bd
+CSE260-23A,,,ADD,SAT+THU,2:00 PM,09C-13C,"MCW,NQM",MON,8:00 AM,FT10-04L,,ext.ayesha.siddika@bracu.ac.bd
+CSE260-23B,,,ADD,SAT+THU,2:00 PM,09C-13C,"CABS,CMHH",MON,11:00 AM,FT10-04L,,ext.ayesha.siddika@bracu.ac.bd
+CSE260-24A,,,NLH,MON+WED,2:00 PM,07D-19C,"PBK,THR",SAT,11:00 AM,FT10-02L,,niloy.farhan@bracu.ac.bd
+CSE260-24B,,,NLH,MON+WED,2:00 PM,07D-19C,"ADD,CAYR",SAT,11:00 AM,FT10-03L,,niloy.farhan@bracu.ac.bd
+CSE260-25A,,,LMI,MON+WED,3:30 PM,07D-19C,"SMDS,THR",SUN,8:00 AM,FT10-04L,,lamiah.israt@bracu.ac.bd
+CSE260-25B,,,LMI,MON+WED,3:30 PM,07D-19C,"ANKH,CAPN",SUN,11:00 AM,FT10-04L,,lamiah.israt@bracu.ac.bd
+CSE260-26A,,,RFF,MON+WED,8:00 AM,07F-22C,"PBK,THR",SUN,11:00 AM,FT10-02L,,rafid.ahnaf@bracu.ac.bd
+CSE260-26B,,,RFF,MON+WED,8:00 AM,07F-22C,"MDF,SMDS",SUN,11:00 AM,FT10-03L,,rafid.ahnaf@bracu.ac.bd
+CSE260-27A,,,RFF,MON+WED,9:30 AM,07F-22C,"MAJIJ,AWK",SUN,2:00 PM,FT10-02L,,rafid.ahnaf@bracu.ac.bd
+CSE260-27B,,,RFF,MON+WED,9:30 AM,07F-22C,"AAF,CAPN",SUN,2:00 PM,FT10-03L,,rafid.ahnaf@bracu.ac.bd
+CSE320-01,EEE361,EEE362,SRJ,SAT+THU,3:30 PM,10A-04C,,,,,,seraj.mehnaz@bracu.ac.bd
+CSE320-02,EEE361,EEE362,AKTD,SUN+TUE,2:00 PM,10A-10C,,,,,,akhtaruzzaman.adnan@bracu.ac.bd
+CSE320-03,EEE361,EEE362,NTR,SUN+TUE,12:30 PM,10B-16C,,,,,,narzu.tarannum@bracu.ac.bd
+CSE320-04,EEE361,EEE362,NTR,SUN+TUE,2:00 PM,10B-16C,,,,,,narzu.tarannum@bracu.ac.bd
+CSE320-05,EEE361,EEE362,SHRR,MON+WED,9:30 AM,09H-34C,,,,,,shahriar.rahman@bracu.ac.bd
+CSE320-06,EEE361,EEE362,SHRR,MON+WED,11:00 AM,09H-34C,,,,,,shahriar.rahman@bracu.ac.bd
+CSE320-07,EEE361,EEE362,FGZ,SUN+TUE,8:00 AM,09D-17C,,,,,,fakhruddin.gazzali@bracu.ac.bd
+CSE320-08,EEE361,EEE362,FGZ,SUN+TUE,9:30 AM,09D-17C,,,,,,fakhruddin.gazzali@bracu.ac.bd
+CSE320-09,EEE361,EEE362,SRJ,SAT+THU,11:00 AM,07D-19C,,,,,,seraj.mehnaz@bracu.ac.bd
+CSE320-11,EEE361,EEE362,TAP,SUN+TUE,2:00 PM,09D-18C,,,,,,tasnim.ahsan@bracu.ac.bd
+CSE320-12,EEE361,EEE362,TAP,SUN+TUE,3:30 PM,09D-18C,,,,,,tasnim.ahsan@bracu.ac.bd
+CSE320-13,EEE361,EEE362,SHAH,SUN+TUE,12:30 PM,09A-06C,,,,,,asif.shahriar@bracu.ac.bd
+CSE320-14,EEE361,EEE362,LBBH,SAT+THU,8:00 AM,10B-15C,,,,,,labib.hasan@bracu.ac.bd
+CSE320-15,EEE361,EEE362,LBBH,SAT+THU,9:30 AM,10B-15C,,,,,,labib.hasan@bracu.ac.bd
+CSE320-16,EEE361,EEE362,YND,SUN+TUE,11:00 AM,07D-20C,,,,,,yasmin.nadia@bracu.ac.bd
+CSE320-17,EEE361,EEE362,YND,SUN+TUE,12:30 PM,07D-20C,,,,,,yasmin.nadia@bracu.ac.bd
+CSE321-01,,,ACH,MON+WED,9:30 AM,10A-04C,"CAKM,MLH",TUE,2:00 PM,12D-26L,,amitabha@bracu.ac.bd
+CSE321-02,,,NTR,MON+WED,11:00 AM,10B-13C,"HFN,MAO",SUN,2:00 PM,12D-27L,,narzu.tarannum@bracu.ac.bd
+CSE321-03,,,NTR,MON+WED,12:30 PM,10B-13C,"HFN,CAKM",SUN,8:00 AM,12D-26L,,narzu.tarannum@bracu.ac.bd
+CSE321-04,,,ZMD,SUN+TUE,11:00 AM,09E-20T,"CRHB,CNZR",SAT,2:00 PM,12D-26L,,zaber.mohammad@bracu.ac.bd
+CSE321-05,,,ZMD,SUN+TUE,11:00 AM,09E-20T,"CSSA,AHA",SAT,8:00 AM,12D-27L,,zaber.mohammad@bracu.ac.bd
+CSE321-06,,,ZMD,SUN+TUE,11:00 AM,09E-20T,"ZYH,SMKD",SAT,11:00 AM,12D-27L,,zaber.mohammad@bracu.ac.bd
+CSE321-07,,,BDH,SUN+TUE,11:00 AM,09D-18C,"BDH,MLH",MON,11:00 AM,12D-27L,,badrul.hossain@bracu.ac.bd
+CSE321-08,,,BDH,SUN+TUE,12:30 PM,09D-18C,"BDH,MLH",WED,11:00 AM,12D-26L,,badrul.hossain@bracu.ac.bd
+CSE321-09,,,ZYH,SAT+THU,8:00 AM,07H-27C,"CRHB,CNZR",SUN,8:00 AM,12D-27L,,zayed.humayun@bracu.ac.bd
+CSE321-10,,,RHD,SUN+TUE,8:00 AM,09H-33C,"SULT,MLH",WED,8:00 AM,12D-26L,,imran.zahid@bracu.ac.bd
+CSE321-11,,,RHD,SUN+TUE,9:30 AM,09H-33C,"ZYH,ANNH",MON,8:00 AM,10G-33L,,imran.zahid@bracu.ac.bd
+CSE321-12,,,SWV,SUN+TUE,2:00 PM,09D-17C,"SMKD,MAO",WED,2:00 PM,12D-26L,,showvik.biswas@bracu.ac.bd
+CSE321-13,,,SWV,SUN+TUE,3:30 PM,09D-17C,"SULT,MAO",WED,11:00 AM,12D-27L,,showvik.biswas@bracu.ac.bd
+CSE321-14,,,SHBK,SAT+THU,8:00 AM,09A-02C,"CNZR,MAO",SUN,11:00 AM,12D-27L,,sahib.kowsar@bracu.ac.bd
+CSE321-15,,,SHBK,SAT+THU,9:30 AM,09A-02C,"HFN,KBS",MON,8:00 AM,12D-27L,,sahib.kowsar@bracu.ac.bd
+CSE321-16,,,SHBK,SAT+THU,12:30 PM,09H-32C,"SWV,KBS",MON,2:00 PM,12D-27L,,sahib.kowsar@bracu.ac.bd
+CSE321-17,,,SZD,MON+WED,2:00 PM,09A-05C,"CAKM,HFN",TUE,8:00 AM,12D-27L,,shazid.mahbub@bracu.ac.bd
+CSE321-18,,,TNF,SAT+THU,9:30 AM,09H-32C,"SULT,ASMN",TUE,8:00 AM,12D-26L,,tanhiat.fatema@bracu.ac.bd
+CSE321-19,,,TNF,SAT+THU,11:00 AM,09H-32C,"SULT,SWV",TUE,11:00 AM,12D-26L,,tanhiat.fatema@bracu.ac.bd
+CSE321-20,,,TNF,MON+WED,11:00 AM,09A-07C,"SMKD,KBS",THU,8:00 AM,10G-34L,,tanhiat.fatema@bracu.ac.bd
+CSE321-21,,,SVKG,MON+WED,8:00 AM,09A-07C,"SMKD,KBS",THU,11:00 AM,10G-34L,,souvik.ghosh@bracu.ac.bd
+CSE321-22,,,SVKG,MON+WED,9:30 AM,09A-07C,"CRHB,SJM",THU,2:00 PM,10G-34L,,souvik.ghosh@bracu.ac.bd
+CSE321-23,,,TVRR,MON+WED,9:30 AM,07D-20C,"CNFH,NMP",THU,8:00 AM,12D-26L,,tanveer.rahman@bracu.ac.bd
+CSE321-24,,,HFN,MON+WED,11:00 AM,07D-19C,"SJM,NMP",THU,11:00 AM,12D-26L,,araf.noshin@bracu.ac.bd
+CSE321-25,,,HFN,MON+WED,12:30 PM,07D-19C,"CNZR,CRHB",SAT,8:00 AM,12D-26L,,araf.noshin@bracu.ac.bd
+CSE321-26,,,SMUR,MON+WED,2:00 PM,07H-27C,"AHC,KBS",SAT,11:00 AM,12D-26L,,rahman.samiur@bracu.ac.bd
+CSE321-27,,,MNY,SUN+TUE,3:30 PM,09A-06C,"CSSA,AHA",MON,11:00 AM,09E-22L,,nur.yanhaona@bracu.ac.bd
+CSE330-01,,,AMK,MON+WED,11:00 AM,10A-10C,"NTN,MZW",TUE,8:00 AM,10G-34L,,abu.khan@bracu.ac.bd
+CSE330-02,,,AMK,MON+WED,12:30 PM,10A-10C,"ARD,SADF",TUE,11:00 AM,10G-34L,,abu.khan@bracu.ac.bd
+CSE330-03,,,AQU,SUN+TUE,11:00 AM,09H-35C,"SMDS,KBS",SAT,8:00 AM,10G-34L,,aquib.azmain@bracu.ac.bd
+CSE330-04,,,AQU,SUN+TUE,12:30 PM,09H-35C,"ALB,RFTS",SAT,11:00 AM,10G-34L,,aquib.azmain@bracu.ac.bd
+CSE330-05,,,MNP,SAT+THU,8:00 AM,09H-35C,"SADF,NLAM",SUN,11:00 AM,10G-34L,,mushfique.nasir@bracu.ac.bd
+CSE330-06,,,MNP,SAT+THU,9:30 AM,09H-35C,"ALB,ASRF",SUN,11:00 AM,09F-27L,,mushfique.nasir@bracu.ac.bd
+CSE330-07,,,MNP,SAT+THU,12:30 PM,09H-34C,"SULT,SADF",SUN,2:00 PM,09F-27L,,mushfique.nasir@bracu.ac.bd
+CSE330-08,,,ITTSC,MON+WED,2:00 PM,07D-20C,"AQU,SADF",TUE,2:00 PM,10G-34L,,ittehad.chowdhury@bracu.ac.bd
+CSE330-09,,,ITTSC,MON+WED,3:30 PM,07D-20C,"CPTH,MZFZ",THU,8:00 AM,12D-27L,,ittehad.chowdhury@bracu.ac.bd
+CSE330-10,,,NAFR,SUN+TUE,8:00 AM,09A-02C,"SHBK,KBS",SAT,2:00 PM,10G-34L,,nafiu.rahman@bracu.ac.bd
+CSE330-11,,,NAFR,SUN+TUE,9:30 AM,09A-02C,"ASRF,AAF",MON,8:00 AM,10G-34L,,nafiu.rahman@bracu.ac.bd
+CSE330-12,,,SADF,MON+WED,8:00 AM,09A-03C,"RFTS,MZFZ",THU,11:00 AM,12D-27L,,saadat.ahmed@bracu.ac.bd
+CSE330-13,,,SADF,MON+WED,11:00 AM,09A-02C,"AQU,SHBK",THU,2:00 PM,12D-27L,,saadat.ahmed@bracu.ac.bd
+CSE330-14,,,RFTS,SUN+TUE,2:00 PM,07D-19C,"ARD,SULT",MON,11:00 AM,10G-34L,,rifa.tasfiya@bracu.ac.bd
+CSE330-15,,,RFTS,SUN+TUE,3:30 PM,07D-19C,"SULT,MNP",MON,2:00 PM,10G-34L,,rifa.tasfiya@bracu.ac.bd
+CSE330-16,,,FDM,SAT+THU,11:00 AM,07D-20C,"AAF,WLV",SUN,8:00 AM,12F-30L,,ext.fardin.rahman@bracu.ac.bd
+CSE330-17,,,HBN,SAT+THU,12:30 PM,07D-20C,"WLV,SMKD",WED,8:00 AM,10G-34L,,ext.hamim.nasim@bracu.ac.bd
+CSE330-18,,,NTN,SAT+THU,3:30 PM,07D-20C,"MNP,ALB",WED,11:00 AM,10G-34L,,ext.naima.tahsin@bracu.ac.bd
+CSE330-19,,,RZR,SUN+TUE,8:00 AM,07D-20C,"ADD,MZW",MON,8:00 AM,12D-26L,,ext.riazul.islam@bracu.ac.bd
+CSE330-20,,,AROY,SAT+THU,2:00 PM,09D-18C,"ADD,NTN",WED,2:00 PM,10G-34L,,ext.atonu.roy@bracu.ac.bd
+CSE331-01,,,ATY,SUN+TUE,2:00 PM,09H-34C,,,,,,ateya.ahmed@bracu.ac.bd
+CSE331-02,,,ATY,SUN+TUE,3:30 PM,09H-34C,,,,,,ateya.ahmed@bracu.ac.bd
+CSE331-03,,,KKP,MON+WED,8:00 AM,09H-35C,,,,,,kabbya.kantam@bracu.ac.bd
+CSE331-04,,,KKP,MON+WED,9:30 AM,09H-35C,,,,,,kabbya.kantam@bracu.ac.bd
+CSE331-05,,,ANNH,MON+WED,2:00 PM,09A-07C,,,,,,ext.aunon.halder@bracu.ac.bd
+CSE331-06,,,MZFZ,MON+WED,3:30 PM,09A-07C,,,,,,ext.mehnaz.fazal@bracu.ac.bd
+CSE331-07,,,RSS,SUN+TUE,9:30 AM,09G-31T,,,,,,rafiad.shahir@bracu.ac.bd
+CSE331-08,,,RSS,SUN+TUE,9:30 AM,09G-31T,,,,,,rafiad.shahir@bracu.ac.bd
+CSE331-09,,,RSS,SUN+TUE,9:30 AM,09G-31T,,,,,,rafiad.shahir@bracu.ac.bd
+CSE331-10,,,ZYH,SAT+THU,9:30 AM,07H-27C,,,,,,zayed.humayun@bracu.ac.bd
+CSE331-11,,,ZYH,MON+WED,11:00 AM,07F-22C,,,,,,zayed.humayun@bracu.ac.bd
+CSE331-12,,,ZYH,MON+WED,12:30 PM,07F-22C,,,,,,zayed.humayun@bracu.ac.bd
+CSE331-13,,,AFA,SAT+THU,2:00 PM,10B-13C,,,,,,afroza.akther@bracu.ac.bd
+CSE331-14,,,AFA,SAT+THU,3:30 PM,10B-13C,,,,,,afroza.akther@bracu.ac.bd
+CSE331-15,,,RFR,SAT+THU,8:00 AM,09H-34C,,,,,,rifat.rahman@bracu.ac.bd
+CSE331-16,,,RFR,SAT+THU,9:30 AM,09H-34C,,,,,,rifat.rahman@bracu.ac.bd
+CSE331-17,,,RFR,SAT+THU,12:30 PM,09A-02C,,,,,,rifat.rahman@bracu.ac.bd
+CSE331-18,,,TNF,MON+WED,12:30 PM,09A-07C,,,,,,tanhiat.fatema@bracu.ac.bd
+CSE331-19,,,MLH,SAT+THU,3:30 PM,09H-32C,,,,,,ext.monirul.haque@bracu.ac.bd
+CSE340-01,EEE410,,ACH,SUN+TUE,9:30 AM,09E-20T,,,,,,amitabha@bracu.ac.bd
+CSE340-01,EEE410,,MTSM,SUN+TUE,9:30 AM,09E-20T,,,,,,muhtasim.mahmud@bracu.ac.bd
+CSE340-02,EEE410,,ACH,SUN+TUE,9:30 AM,09E-20T,,,,,,amitabha@bracu.ac.bd
+CSE340-02,EEE410,,MTSM,SUN+TUE,9:30 AM,09E-20T,,,,,,muhtasim.mahmud@bracu.ac.bd
+CSE340-03,EEE410,,ACH,SUN+TUE,9:30 AM,09E-20T,,,,,,amitabha@bracu.ac.bd
+CSE340-03,EEE410,,MTSM,SUN+TUE,9:30 AM,09E-20T,,,,,,muhtasim.mahmud@bracu.ac.bd
+CSE340-04,EEE410,,PBK,SAT+THU,8:00 AM,09A-04C,,,,,,partha.bhoumik@bracu.ac.bd
+CSE340-05,EEE410,,PBK,SAT+THU,9:30 AM,09A-04C,,,,,,partha.bhoumik@bracu.ac.bd
+CSE340-06,EEE410,,RDW,MON+WED,8:00 AM,09D-18C,,,,,,redowanul.akbar@bracu.ac.bd
+CSE340-07,EEE410,,RDW,MON+WED,9:30 AM,09D-18C,,,,,,redowanul.akbar@bracu.ac.bd
+CSE340-08,EEE410,,RDW,SUN+TUE,8:00 AM,09H-34C,,,,,,redowanul.akbar@bracu.ac.bd
+CSE340-09,EEE410,,SWV,MON+WED,11:00 AM,09B-12C,,,,,,showvik.biswas@bracu.ac.bd
+CSE340-10,EEE410,,SWV,MON+WED,12:30 PM,09B-12C,,,,,,showvik.biswas@bracu.ac.bd
+CSE340-11,EEE410,,LRK,SUN+TUE,11:00 AM,09C-13C,,,,,,lara.khanom@bracu.ac.bd
+CSE340-12,EEE410,,LRK,SUN+TUE,12:30 PM,09C-13C,,,,,,lara.khanom@bracu.ac.bd
+CSE340-13,EEE410,,MTSM,SUN+TUE,9:30 AM,09E-20T,,,,,,muhtasim.mahmud@bracu.ac.bd
+CSE340-14,EEE410,,ZLNM,SUN+TUE,11:00 AM,09A-06C,,,,,,zulkar.naim@bracu.ac.bd
+CSE340-15,EEE410,,SVKG,SUN+TUE,2:00 PM,09A-02C,,,,,,souvik.ghosh@bracu.ac.bd
+CSE340-16,EEE410,,SVKG,SUN+TUE,3:30 PM,09A-02C,,,,,,souvik.ghosh@bracu.ac.bd
+CSE340-17,EEE410,,SADA,SAT+THU,11:00 AM,09A-05C,,,,,,sadif.ahmed@bracu.ac.bd
+CSE340-18,EEE410,,SADA,SAT+THU,12:30 PM,09A-05C,,,,,,sadif.ahmed@bracu.ac.bd
+CSE340-19,EEE410,,TWK,SUN+TUE,11:00 AM,09A-02C,,,,,,towshik.taj@bracu.ac.bd
+CSE340-20,EEE410,,MAO,SAT+THU,9:30 AM,08H-22C,,,,,,mirza.abdullah@bracu.ac.bd
+CSE340-21,EEE410,,FARS,MON+WED,8:00 AM,09B-12C,,,,,,farhan.shahriar@bracu.ac.bd
+CSE340-22,EEE410,,FARS,MON+WED,9:30 AM,09B-12C,,,,,,farhan.shahriar@bracu.ac.bd
+CSE340-23,EEE410,,AFQ,SAT+THU,11:00 AM,09H-35C,,,,,,ashfaqul.haque@bracu.ac.bd
+CSE340-24,EEE410,,AFQ,SAT+THU,12:30 PM,09H-35C,,,,,,ashfaqul.haque@bracu.ac.bd
+CSE340-25,EEE410,,AAF,SAT+THU,11:00 AM,09A-03C,,,,,,ext.anika.afrin@bracu.ac.bd
+CSE340-26,EEE410,,SMYA,SAT+THU,11:00 AM,10B-15C,,,,,,sumaiya@bracu.ac.bd
+CSE340-27,EEE410,,TNMF,MON+WED,8:00 AM,08H-22C,,,,,,tasnim.ferdous@bracu.ac.bd
+CSE340-28,EEE410,,TWK,SUN+TUE,12:30 PM,09A-02C,,,,,,towshik.taj@bracu.ac.bd
+CSE340-29,EEE410,,TNMF,SUN+TUE,2:00 PM,07D-20C,,,,,,tasnim.ferdous@bracu.ac.bd
+CSE340-30,EEE410,,TNMF,MON+WED,9:30 AM,08H-22C,,,,,,tasnim.ferdous@bracu.ac.bd
+CSE341-01,,,RKN,SUN+TUE,11:00 AM,09H-32C,"CABS,CKMH",THU,11:00 AM,12F-30L,,raisul.kabir@bracu.ac.bd
+CSE341-02,,,RKN,SUN+TUE,12:30 PM,09H-32C,"NWT,HBN",WED,8:00 AM,12F-30L,,raisul.kabir@bracu.ac.bd
+CSE341-03,,,RKN,MON+WED,11:00 AM,09D-18C,"RFTS,HBN",TUE,11:00 AM,12D-27L,,raisul.kabir@bracu.ac.bd
+CSE341-04,,,RKN,MON+WED,12:30 PM,09D-18C,"HBN,CKMH",THU,8:00 AM,12F-30L,,raisul.kabir@bracu.ac.bd
+CSE341-05,,,UJT,SUN+TUE,11:00 AM,09G-31T,"RAHA,NWT",WED,11:00 AM,12F-30L,,jannat.taposhi@bracu.ac.bd
+CSE341-06,,,UJT,SUN+TUE,11:00 AM,09G-31T,"TRZA,CKMH",SAT,11:00 AM,12F-30L,,jannat.taposhi@bracu.ac.bd
+CSE341-07,,,UJT,SUN+TUE,11:00 AM,09G-31T,"TRZA,NWT",SAT,2:00 PM,12F-30L,,jannat.taposhi@bracu.ac.bd
+CSE341-08,,,SMYA,SAT+THU,12:30 PM,10B-15C,"NWT,TRZA",SUN,8:00 AM,12F-31L,,sumaiya@bracu.ac.bd
+CSE341-09,,,FFU,SAT+THU,9:30 AM,09D-17C,"RAHA,TRZA",SUN,11:00 AM,12F-31L,,farhan.faruk@bracu.ac.bd
+CSE341-10,,,FFU,SAT+THU,8:00 AM,09B-12C,"CMHH,CABS",MON,8:00 AM,12F-31L,,farhan.faruk@bracu.ac.bd
+CSE341-11,,,WLV,SAT+THU,12:30 PM,07D-19C,"CKMH,TRZA",MON,11:00 AM,12F-31L,,ext.waseq.alvi@bracu.ac.bd
+CSE341-12,,,RAHA,SAT+THU,12:30 PM,09A-03C,"RKN,CKMH",TUE,2:00 PM,12D-27L,,reefat.raha@bracu.ac.bd
+CSE350-01A,,,SDU,SUN+TUE,8:00 AM,07H-26C,"PDS,ALSM",MON,11:00 AM,FT10-01L,,shomen.kundu@bracu.ac.bd
+CSE350-01B,,,SDU,SUN+TUE,8:00 AM,07H-26C,"ZAZ,RAO",MON,11:00 AM,FT11-01L,,shomen.kundu@bracu.ac.bd
+CSE350-02A,,,ALSM,SUN+TUE,11:00 AM,07H-26C,"SDU,ZAZ",WED,2:00 PM,FT10-01L,,ext.aliva.sadnim@bracu.ac.bd
+CSE350-02B,,,ALSM,SUN+TUE,11:00 AM,07H-26C,"SZZ,UPM",WED,2:00 PM,FT11-01L,,ext.aliva.sadnim@bracu.ac.bd
+CSE350-03A,,,NUR,SUN+TUE,12:30 PM,07H-26C,"ZBH,AKDB",SAT,8:00 AM,FT10-01L,,ext.nur.shaon@bracu.ac.bd
+CSE350-03B,,,NUR,SUN+TUE,12:30 PM,07H-26C,"NUR,RFQ",SAT,8:00 AM,FT11-01L,,ext.nur.shaon@bracu.ac.bd
+CSE350-04A,,,ARA,SUN+TUE,2:00 PM,07H-26C,"UPM,TSE",THU,2:00 PM,FT10-01L,,ext.rahman.ashikur@bracu.ac.bd
+CSE350-04B,,,ARA,SUN+TUE,2:00 PM,07H-26C,"ZAZ,RFQ",THU,2:00 PM,FT11-01L,,ext.rahman.ashikur@bracu.ac.bd
+CSE350-05A,,,ZAZ,MON+WED,9:30 AM,07H-26C,"SDU,NUR",THU,11:00 AM,FT10-01L,,ihzaz.sadik@bracu.ac.bd
+CSE350-05B,,,ZAZ,MON+WED,9:30 AM,07H-26C,"ZAZ,TSE",THU,11:00 AM,FT11-01L,,ihzaz.sadik@bracu.ac.bd
+CSE350-06A,,,TSE,MON+WED,11:00 AM,07H-26C,"TSE,MTOT",TUE,2:00 PM,12B-20L,,tasneem.mazhar@bracu.ac.bd
+CSE350-06B,,,TSE,MON+WED,11:00 AM,07H-26C,"UTS,AQT",TUE,2:00 PM,12B-20L,,tasneem.mazhar@bracu.ac.bd
+CSE350-07A,,,MTOT,MON+WED,12:30 PM,07H-26C,"THL,TSE",TUE,8:00 AM,12B-20L,,ext.toky.tazwar@bracu.ac.bd
+CSE350-07B,,,MTOT,MON+WED,12:30 PM,07H-26C,"FFR,SHJR",TUE,8:00 AM,12B-20L,,ext.toky.tazwar@bracu.ac.bd
+CSE350-08A,,,TSE,MON+WED,2:00 PM,07H-26C,"AKJ,SEF",SUN,8:00 AM,FT10-01L,,tasneem.mazhar@bracu.ac.bd
+CSE350-09A,,,SZZ,SAT+THU,9:30 AM,07H-26C,"SDU,SZZ",MON,2:00 PM,12B-20L,,sazzadul.islam@bracu.ac.bd
+CSE350-09B,,,SZZ,SAT+THU,9:30 AM,07H-26C,"UPM,MTOT",MON,2:00 PM,12B-20L,,sazzadul.islam@bracu.ac.bd
+CSE350-10A,,,ZBH,SAT+THU,12:30 PM,07H-26C,"SDQ,TSE",SUN,2:00 PM,12B-20L,,ext.zayed.zahir@bracu.ac.bd
+CSE350-10B,,,ZBH,SAT+THU,12:30 PM,07H-26C,"AKJ,NUR",SUN,2:00 PM,12B-20L,,ext.zayed.zahir@bracu.ac.bd
+CSE350-11A,,,SHJR,SAT+THU,2:00 PM,07H-26C,"ARA,AQT",WED,11:00 AM,FT10-01L,,ext.shourov.joarder@bracu.ac.bd
+CSE360-01,,,ASA,SUN+TUE,3:30 PM,09C-16T,"SMYA,UJT",WED,2:00 PM,10G-33L,,ashraful.alam@bracu.ac.bd
+CSE360-02,,,ASA,SUN+TUE,3:30 PM,09C-16T,"SMYA,UJT",WED,2:00 PM,10G-33L,,ashraful.alam@bracu.ac.bd
+CSE360-03,,,ASA,SUN+TUE,3:30 PM,09C-16T,"RDW,PRC",MON,2:00 PM,10G-33L,,ashraful.alam@bracu.ac.bd
+CSE360-04,,,SRU,MON+WED,12:30 PM,09C-13C,"PRC,SMYA",TUE,2:00 PM,10G-33L,,shakir.rouf@bracu.ac.bd
+CSE360-05,,,RDW,SUN+TUE,9:30 AM,09H-34C,"IRZ,PRC",SAT,2:00 PM,10G-33L,,redowanul.akbar@bracu.ac.bd
+CSE360-06,,,UJT,MON+WED,11:00 AM,10B-15C,"PRC,SMYA",TUE,2:00 PM,10G-33L,,jannat.taposhi@bracu.ac.bd
+CSE360-07,,,SMKD,SAT+THU,2:00 PM,09H-32C,"RDW,PRC",MON,2:00 PM,10G-33L,,ext.samiul.kadir@bracu.ac.bd
+CSE360-08,,,SHBK,SUN+TUE,8:00 AM,09H-35C,"IRZ,PRC",SAT,2:00 PM,10G-33L,,sahib.kowsar@bracu.ac.bd
+CSE370-01,,,NNC,MON+WED,8:00 AM,10A-05C,"FDM,TRZA",THU,8:00 AM,12F-31L,,najeefa.chy@bracu.ac.bd
+CSE370-02,,,NNC,MON+WED,9:30 AM,10A-05C,"FEK,NZU",TUE,11:00 AM,12F-31L,,najeefa.chy@bracu.ac.bd
+CSE370-03,,,NNC,SUN+TUE,8:00 AM,10A-10C,"NZU,FEK",MON,8:00 AM,12F-32L,,najeefa.chy@bracu.ac.bd
+CSE370-04,,,NNC,SUN+TUE,9:30 AM,10A-10C,"MAHS,CSYR",SAT,8:00 AM,12F-30L,,najeefa.chy@bracu.ac.bd
+CSE370-05,,,RBR,SUN+TUE,11:00 AM,10A-04C,"NZU,RAHA",SUN,2:00 PM,12F-32L,,rakin.rabbani@bracu.ac.bd
+CSE370-06,,,RBR,SUN+TUE,12:30 PM,10A-04C,"SHRR,MAU",MON,2:00 PM,12F-32L,,rakin.rabbani@bracu.ac.bd
+CSE370-07,,,FEK,SUN+TUE,3:30 PM,09H-33C,"KZMN,NQM",SAT,11:00 AM,12F-31L,,farden.khan@bracu.ac.bd
+CSE370-08,,,FEK,MON+WED,2:00 PM,09D-18C,"FZN,ALB",SUN,8:00 AM,12F-32L,,farden.khan@bracu.ac.bd
+CSE370-09,,,FEK,MON+WED,3:30 PM,09D-18C,"MAU,FZN",SUN,11:00 AM,12F-32L,,farden.khan@bracu.ac.bd
+CSE370-10,,,NZU,SUN+TUE,8:00 AM,09D-18C,"RBR,NZU",WED,2:00 PM,10E-27L,,nazmul.islam1@bracu.ac.bd
+CSE370-11,,,NZU,SUN+TUE,9:30 AM,09D-18C,"RAHA,CABS",THU,2:00 PM,12F-31L,,nazmul.islam1@bracu.ac.bd
+CSE370-13,,,FEK,SUN+TUE,2:00 PM,09H-33C,"MAHS,STNM",THU,11:00 AM,12F-31L,,farden.khan@bracu.ac.bd
+CSE370-14,,,ALB,SAT+THU,9:30 AM,09A-03C,"SHRR,MAU",WED,2:00 PM,12F-30L,,anindita.labonno@bracu.ac.bd
+CSE370-15,,,PLN,SAT+THU,3:30 PM,09D-17C,"NZU,STNM",WED,8:00 AM,12F-31L,,pollock.nag@bracu.ac.bd
+CSE370-16,,,MZG,SAT+THU,8:00 AM,09A-05C,"FZN,STNM",TUE,8:00 AM,12F-31L,,ahmed.mayeesha@bracu.ac.bd
+CSE370-17,,,MRIA,SAT+THU,2:00 PM,07H-27C,"TMD,NZU",MON,11:00 AM,12F-32L,,maria.muna@bracu.ac.bd
+CSE370-18,,,MNY,SUN+TUE,12:30 PM,09A-05C,"CSYR,NQM",THU,2:00 PM,10E-27L,,nur.yanhaona@bracu.ac.bd
+CSE391-01,,,ADR,SUN+SUN,11:00 AM+12:30 PM,FT11-04L,"ADR,AQJ",TUE,2:00 PM,FT11-04L,,abdur.rahman@bracu.ac.bd
+CSE402-01,,,SDAS,SUN+TUE,3:30 PM,09B-12C,"SDAS,NFS",THU,11:00 AM,09B-10L,,sowmitra.das@bracu.ac.bd
+CSE419-01,,,KKP,SUN+TUE,9:30 AM,09H-35C,"CRHB,KKP",MON,2:00 PM,FT11-03L,,kabbya.kantam@bracu.ac.bd
+CSE420-01,,,ZMD,MON+WED,12:30 PM,10B-16C,"MAF,FMK",TUE,8:00 AM,10E-27L,,zaber.mohammad@bracu.ac.bd
+CSE420-02,,,AVB,SAT+THU,8:00 AM,10B-13C,"NLAM,SUE",SUN,8:00 AM,10G-34L,,avinandan@bracu.ac.bd
+CSE420-03,,,SZD,SUN+TUE,2:00 PM,09A-06C,"SUE,RKBR",SAT,11:00 AM,10E-27L,,shazid.mahbub@bracu.ac.bd
+CSE420-04,,,SZD,SUN+TUE,9:30 AM,08H-22C,"SUE,RKBR",SAT,11:00 AM,10E-27L,,shazid.mahbub@bracu.ac.bd
+CSE420-05,,,LRK,MON+WED,2:00 PM,09A-04C,"FMK,AKHD",THU,11:00 AM,10E-27L,,lara.khanom@bracu.ac.bd
+CSE420-06,,,LRK,MON+WED,3:30 PM,09A-04C,"FMK,AKHD",THU,11:00 AM,10E-27L,,lara.khanom@bracu.ac.bd
+CSE420-07,,,STNM,SAT+THU,2:00 PM,09A-05C,"NLAM,SUE",SUN,8:00 AM,10G-34L,,sanjida.tasnim@bracu.ac.bd
+CSE420-08,,,STNM,SAT+THU,3:30 PM,09A-05C,"SZD,RKBR",SUN,11:00 AM,10E-27L,,sanjida.tasnim@bracu.ac.bd
+CSE420-09,,,AVB,SAT+THU,9:30 AM,10B-13C,"SZD,RKBR",SUN,11:00 AM,10E-27L,,avinandan@bracu.ac.bd
+CSE420-10,,,NLAM,SAT+THU,12:30 PM,10B-16C,"SZD,LRK",MON,11:00 AM,10E-27L,,namirul.islam@bracu.ac.bd
+CSE420-11,,,NLAM,SAT+THU,2:00 PM,10B-16C,"SZD,LRK",MON,11:00 AM,10E-27L,,namirul.islam@bracu.ac.bd
+CSE420-12,,,SUE,SAT+THU,8:00 AM,07D-20C,"NLAM,MAF",MON,2:00 PM,10E-27L,,sukarna.sarkar@bracu.ac.bd
+CSE420-13,,,SUE,SAT+THU,9:30 AM,07D-20C,"NLAM,MAF",MON,2:00 PM,10E-27L,,sukarna.sarkar@bracu.ac.bd
+CSE420-14,,,AKHD,SAT+THU,3:30 PM,09C-13C,"LRK,RDS",WED,11:00 AM,10E-27L,,ext.abdullah@bracu.ac.bd
+CSE420-15,,,RKBR,SAT+THU,2:00 PM,09A-06C,"LRK,RDS",WED,11:00 AM,10E-27L,,rakib.kibria@bracu.ac.bd
+CSE420-16,,,RKBR,SAT+THU,3:30 PM,09A-06C,"FMK,MAF",TUE,2:00 PM,10E-27L,,rakib.kibria@bracu.ac.bd
+CSE420-17,,,FMK,SAT+THU,2:00 PM,07D-19C,"FMK,MAF",TUE,2:00 PM,10E-27L,,ext.md.saif.mokarrom@bracu.ac.bd
+CSE420-18,,,MAF,SAT+THU,3:30 PM,07D-19C,"MAF,FMK",TUE,8:00 AM,10E-27L,,ext.md.asif@bracu.ac.bd
+CSE420-19,,,SZD,MON+WED,3:30 PM,09A-05C,"FMK,AKHD",WED,11:00 AM,12F-31L,,shazid.mahbub@bracu.ac.bd
+CSE420-20,,,MNY,SUN+TUE,11:00 AM,09A-05C,"FMK,AKHD",WED,11:00 AM,12F-31L,,nur.yanhaona@bracu.ac.bd
+CSE421-01,EEE465,EEE466,ARF,MON+WED,12:30 PM,10A-04C,"WBH,THR",THU,8:00 AM,09F-25L,,arif.shakil@bracu.ac.bd
+CSE421-02,EEE465,EEE466,ARF,MON+WED,2:00 PM,10A-04C,"WBH,THR",THU,8:00 AM,09F-25L,,arif.shakil@bracu.ac.bd
+CSE421-03,EEE465,EEE466,FDC,MON+WED,11:00 AM,10B-16C,"RDS,WBH",SAT,2:00 PM,09F-25L,,farida.chowdhury@bracu.ac.bd
+CSE421-04,EEE465,EEE466,SKZ,MON+WED,2:00 PM,10A-05C,"RDS,WBH",SAT,2:00 PM,09F-25L,,skazi@bracu.ac.bd
+CSE421-05,EEE465,EEE466,MSAH,SUN+TUE,3:30 PM,09E-20T,"CQAE,CPTH",SAT,11:00 AM,09F-25L,,sakir.hossain@bracu.ac.bd
+CSE421-06,EEE465,EEE466,MSAH,SUN+TUE,3:30 PM,09E-20T,"CQAE,CPTH",SAT,11:00 AM,09F-25L,,sakir.hossain@bracu.ac.bd
+CSE421-07,EEE465,EEE466,MSAH,SUN+TUE,3:30 PM,09E-20T,"RDS,WBH",SAT,8:00 AM,09F-25L,,sakir.hossain@bracu.ac.bd
+CSE421-08,EEE465,EEE466,SRJ,SAT+THU,9:30 AM,10A-04C,"RKBR,THR",WED,2:00 PM,09F-25L,,seraj.mehnaz@bracu.ac.bd
+CSE421-09,EEE465,EEE466,ANKH,SAT+THU,11:00 AM,10A-04C,"RKBR,THR",WED,2:00 PM,09F-25L,,anika.ahmed@bracu.ac.bd
+CSE421-10,EEE465,EEE466,SRJ,SAT+THU,2:00 PM,10A-04C,"AKTD,RKBR",WED,11:00 AM,09F-25L,,seraj.mehnaz@bracu.ac.bd
+CSE421-11,EEE465,EEE466,AKTD,MON+WED,2:00 PM,09C-16T,"CPTH,THR",THU,2:00 PM,09F-25L,,akhtaruzzaman.adnan@bracu.ac.bd
+CSE421-12,EEE465,EEE466,AKTD,MON+WED,2:00 PM,09C-16T,"CPTH,THR",THU,2:00 PM,09F-25L,,akhtaruzzaman.adnan@bracu.ac.bd
+CSE421-13,EEE465,EEE466,AKTD,MON+WED,2:00 PM,09C-16T,"SRJ,MSMA",TUE,2:00 PM,09F-25L,,akhtaruzzaman.adnan@bracu.ac.bd
+CSE421-14,EEE465,EEE466,MSMA,MON+WED,11:00 AM,07H-27C,"SRJ,MSMA",TUE,2:00 PM,09F-25L,,shamim.mia@bracu.ac.bd
+CSE421-15,EEE465,EEE466,MSMA,MON+WED,12:30 PM,07H-27C,"SRJ,NDT",TUE,11:00 AM,09F-24L,,shamim.mia@bracu.ac.bd
+CSE421-16,EEE465,EEE466,MSMA,MON+WED,3:30 PM,07H-27C,"SRJ,NDT",TUE,11:00 AM,09F-24L,,shamim.mia@bracu.ac.bd
+CSE421-17,EEE465,EEE466,ANWE,SAT+THU,8:00 AM,09D-18C,"AKTD,RKBR",WED,11:00 AM,09F-25L,,abdullah.nayem@bracu.ac.bd
+CSE421-18,EEE465,EEE466,ANWE,SAT+THU,9:30 AM,09D-18C,"SULT,WBH",SUN,8:00 AM,10E-27L,,abdullah.nayem@bracu.ac.bd
+CSE421-19,EEE465,EEE466,NDT,SUN+TUE,8:00 AM,09A-05C,"RDS,WBH",SAT,8:00 AM,09F-25L,,nirjhor.datta@bracu.ac.bd
+CSE421-20,EEE465,EEE466,NDT,SUN+TUE,9:30 AM,09A-05C,"MSMA,WBH",MON,8:00 AM,09F-25L,,nirjhor.datta@bracu.ac.bd
+CSE421-21,EEE465,EEE466,BIJS,MON+WED,8:00 AM,09D-17C,"SRJ,MSMA",SUN,2:00 PM,10E-27L,,bijoy.saiem@bracu.ac.bd
+CSE421-22,EEE465,EEE466,BIJS,MON+WED,9:30 AM,09D-17C,"SRJ,MSMA",SUN,2:00 PM,10E-27L,,bijoy.saiem@bracu.ac.bd
+CSE421-23,EEE465,EEE466,BIJS,SUN+TUE,8:00 AM,07D-19C,"MSMA,WBH",MON,8:00 AM,09F-25L,,bijoy.saiem@bracu.ac.bd
+CSE421-24,EEE465,EEE466,BIJS,SUN+TUE,9:30 AM,07D-19C,"AKTD,WBH",MON,11:00 AM,09F-25L,,bijoy.saiem@bracu.ac.bd
+CSE421-25,EEE465,EEE466,TVRR,SUN+TUE,11:00 AM,07D-19C,"AKTD,WBH",MON,11:00 AM,09F-25L,,tanveer.rahman@bracu.ac.bd
+CSE421-26,EEE465,EEE466,TVRR,SUN+TUE,12:30 PM,07D-19C,"CQAE,CPTH",THU,11:00 AM,09F-25L,,tanveer.rahman@bracu.ac.bd
+CSE421-27,EEE465,EEE466,TVRR,MON+WED,8:00 AM,07D-20C,"SULT,WBH",SUN,8:00 AM,10E-27L,,tanveer.rahman@bracu.ac.bd
+CSE421-28,EEE465,EEE466,ASMN,SUN+TUE,3:30 PM,07F-22C,"CQAE,CPTH",THU,11:00 AM,09F-25L,,ext.nasim.khan@bracu.ac.bd
+CSE422-01,EEE472,,TRZ,SAT+THU,2:00 PM,10A-05C,"ZHS,FFU",TUE,11:00 AM,09F-25L,,tanzim.reza@bracu.ac.bd
+CSE422-02,EEE472,,TRZ,SAT+THU,3:30 PM,10A-05C,"MUNR,RZR",WED,8:00 AM,09F-26L,,tanzim.reza@bracu.ac.bd
+CSE422-03,EEE472,,TRZ,SUN+TUE,2:00 PM,10A-05C,"RRH,AHC",SAT,8:00 AM,09F-26L,,tanzim.reza@bracu.ac.bd
+CSE422-04,EEE472,,RRH,SAT+THU,11:00 AM,09C-16T,"DPU,SWG",WED,11:00 AM,09F-26L,,rahman.rafeed@bracu.ac.bd
+CSE422-05,EEE472,,RRH,SAT+THU,11:00 AM,09C-16T,"WHMJ,FFU",WED,2:00 PM,09F-26L,,rahman.rafeed@bracu.ac.bd
+CSE422-06,EEE472,,RRH,SAT+THU,11:00 AM,09C-16T,"YND,RZR",WED,2:00 PM,09F-27L,,rahman.rafeed@bracu.ac.bd
+CSE422-07,EEE472,,IBU,SAT+THU,11:00 AM,10A-05C,"MHDE,YND",MON,2:00 PM,09F-24L,,ipshita.upoma@bracu.ac.bd
+CSE422-08,EEE472,,IBU,SAT+THU,12:30 PM,10A-05C,"RRH,AHC",SUN,8:00 AM,09F-26L,,ipshita.upoma@bracu.ac.bd
+CSE422-09,EEE472,,ZHS,SUN+TUE,8:00 AM,10B-15C,"LBBH,KKS",SAT,11:00 AM,09F-26L,,shoumo.hasan@bracu.ac.bd
+CSE422-10,EEE472,,ZHS,SUN+TUE,9:30 AM,10B-15C,"NWT,MUNR",MON,8:00 AM,09F-24L,,shoumo.hasan@bracu.ac.bd
+CSE422-11,EEE472,,ZHS,MON+WED,8:00 AM,10A-10C,"PLN,CMHH",THU,8:00 AM,09F-26L,,shoumo.hasan@bracu.ac.bd
+CSE422-12,EEE472,,ZHS,MON+WED,9:30 AM,10A-10C,"LBBH,AJK",THU,11:00 AM,09F-26L,,shoumo.hasan@bracu.ac.bd
+CSE422-13,EEE472,,SWG,SUN+TUE,11:00 AM,09D-17C,"ZHS,RSS",MON,11:00 AM,09F-24L,,swattic.ghose@bracu.ac.bd
+CSE422-14,EEE472,,SWG,SUN+TUE,12:30 PM,09D-17C,"IRZ,RZR",MON,2:00 PM,09F-25L,,swattic.ghose@bracu.ac.bd
+CSE422-15,EEE472,,RSS,MON+WED,9:30 AM,09H-33C,"ANV,CSSA",THU,2:00 PM,09F-26L,,rafiad.shahir@bracu.ac.bd
+CSE422-16,EEE472,,SHAH,MON+WED,3:30 PM,09E-20T,"RRH,FMK",THU,8:00 AM,09F-27L,,asif.shahriar@bracu.ac.bd
+CSE422-17,EEE472,,SHAH,MON+WED,3:30 PM,09E-20T,"MUNR,WHMJ",TUE,8:00 AM,09F-26L,,asif.shahriar@bracu.ac.bd
+CSE422-18,EEE472,,SHAH,MON+WED,3:30 PM,09E-20T,"DPU,NDT",SUN,11:00 AM,10G-33L,,asif.shahriar@bracu.ac.bd
+CSE422-19,EEE472,,NDT,MON+WED,8:00 AM,09A-04C,"ZHS,RSS",SUN,11:00 AM,09F-26L,,nirjhor.datta@bracu.ac.bd
+CSE422-20,EEE472,,KKS,SAT+THU,3:30 PM,10B-15C,"SHAH,YND",SUN,2:00 PM,09F-26L,,md.khaliduzzaman@bracu.ac.bd
+CSE422-21,EEE472,,NDT,MON+WED,12:30 PM,09A-02C,"AYO,SHAH",TUE,2:00 PM,09F-26L,,nirjhor.datta@bracu.ac.bd
+CSE422-22,EEE472,,PSMD,SUN+TUE,12:30 PM,09B-12C,"MHDE,AHC",SAT,2:00 PM,09F-26L,,prothito.shovon@bracu.ac.bd
+CSE422-23,EEE472,,PSMD,SUN+TUE,2:00 PM,09B-12C,"PLN,IRZ",SAT,8:00 AM,09F-27L,,prothito.shovon@bracu.ac.bd
+CSE423-01,,,TMD,SUN+TUE,11:00 AM,09A-07C,"MZFZ,CAPN",SAT,11:00 AM,09F-27L,,tamkin.mahmud@bracu.ac.bd
+CSE423-02,,,TMD,SUN+TUE,12:30 PM,09A-07C,"MZFZ,CAPN",SAT,11:00 AM,09F-27L,,tamkin.mahmud@bracu.ac.bd
+CSE423-03,,,TMD,MON+WED,2:00 PM,09A-02C,"SRU,SMUR",TUE,11:00 AM,09E-22L,,tamkin.mahmud@bracu.ac.bd
+CSE423-04,,,TMD,MON+WED,3:30 PM,09A-02C,"SRU,SMUR",TUE,11:00 AM,09E-22L,,tamkin.mahmud@bracu.ac.bd
+CSE423-05,,,AJA,SUN+TUE,11:00 AM,07H-27C,"MZFZ,NMP",SAT,2:00 PM,09F-27L,,abid.jahan@bracu.ac.bd
+CSE423-06,,,AJA,SUN+TUE,12:30 PM,07H-27C,"MZFZ,NMP",SAT,2:00 PM,09F-27L,,abid.jahan@bracu.ac.bd
+CSE423-07,,,AJA,MON+WED,12:30 PM,09H-35C,"AJA,CAPN",TUE,2:00 PM,09F-24L,,abid.jahan@bracu.ac.bd
+CSE423-08,,,SRU,SUN+TUE,2:00 PM,10A-04C,"SMUR,SKIB",MON,8:00 AM,09E-22L,,shakir.rouf@bracu.ac.bd
+CSE423-09,,,SRU,SUN+TUE,3:30 PM,10A-04C,"SMUR,SKIB",MON,8:00 AM,09E-22L,,shakir.rouf@bracu.ac.bd
+CSE423-10,,,SRU,MON+WED,11:00 AM,09C-13C,"AJA,CAPN",TUE,2:00 PM,09F-24L,,shakir.rouf@bracu.ac.bd
+CSE423-11,,,ZLNM,MON+WED,9:30 AM,09A-04C,"NMP,ANT",SUN,2:00 PM,09F-25L,,zulkar.naim@bracu.ac.bd
+CSE423-12,,,ZLNM,MON+WED,11:00 AM,09A-04C,"NMP,ANT",SUN,2:00 PM,09F-25L,,zulkar.naim@bracu.ac.bd
+CSE423-13,,,SOSB,SUN+TUE,2:00 PM,09A-03C,"SRU,SOSB",MON,2:00 PM,09E-22L,,soumya.swagata@bracu.ac.bd
+CSE423-14,,,SOSB,SUN+TUE,3:30 PM,09A-03C,"SRU,SOSB",MON,2:00 PM,09E-22L,,soumya.swagata@bracu.ac.bd
+CSE423-15,,,MRIA,SAT+THU,3:30 PM,07H-27C,"MHM,ANKH",WED,8:00 AM,10E-27L,,maria.muna@bracu.ac.bd
+CSE423-16,,,MAHS,SAT+THU,3:30 PM,09A-07C,"MHM,ANKH",WED,8:00 AM,10E-27L,,arif.hasan@bracu.ac.bd
+CSE423-17,,,ASAK,SAT+THU,11:00 AM,09B-12C,"MAHS,NMP",WED,2:00 PM,12F-31L,,arnob.ankon@bracu.ac.bd
+CSE423-18,,,SKIB,SAT+THU,2:00 PM,09A-02C,"MAHS,NMP",WED,2:00 PM,12F-31L,,nazmus.sakib@bracu.ac.bd
+CSE423-19,,,ASRF,SAT+THU,3:30 PM,09D-18C,"SOSB,MZFZ",WED,11:00 AM,09F-24L,,ashraful.islam@bracu.ac.bd
+CSE423-20,,,AJA,MON+WED,11:00 AM,09H-35C,"ANKH,MAHS",SUN,8:00 AM,09F-27L,,abid.jahan@bracu.ac.bd
+CSE423-21,,,RAHA,SAT+THU,9:30 AM,09B-12C,"SOSB,MZFZ",WED,11:00 AM,09F-24L,,reefat.raha@bracu.ac.bd
+CSE423-22,,,ASAK,SAT+THU,2:00 PM,09B-12C,"MHM,ANT",WED,2:00 PM,09F-24L,,arnob.ankon@bracu.ac.bd
+CSE423-23,,,SMUR,SUN+TUE,8:00 AM,07H-27C,"ANT,CAPN",THU,11:00 AM,09F-24L,,rahman.samiur@bracu.ac.bd
+CSE423-24,,,SMUR,SUN+TUE,9:30 AM,07H-27C,"ANT,CAPN",THU,11:00 AM,09F-24L,,rahman.samiur@bracu.ac.bd
+CSE423-25,,,ANKH,SAT+THU,8:00 AM,09D-17C,"ANKH,MAHS",SUN,8:00 AM,09F-27L,,anika.ahmed@bracu.ac.bd
+CSE424-01,,,AAR,MON+WED,2:00 PM,08H-22C,"SBHN,LBBH",MON,11:00 AM,12D-26L,,annajiat@bracu.ac.bd
+CSE424-02,,,SBHN,MON+WED,3:30 PM,09D-17C,"SBHN,LBBH",MON,11:00 AM,12D-26L,,sabbir.hossain@bracu.ac.bd
+CSE425-01,EEE474,,MMM,SUN+TUE,8:00 AM,09E-20T,,,,,,mostakim@bracu.ac.bd
+CSE425-02,EEE474,,MMM,SUN+TUE,8:00 AM,09E-20T,,,,,,mostakim@bracu.ac.bd
+CSE425-03,EEE474,,MMM,SUN+TUE,8:00 AM,09E-20T,,,,,,mostakim@bracu.ac.bd
+CSE425-04,EEE474,,DPU,MON+WED,8:00 AM,09E-20T,,,,,,shoaib.ahmed@bracu.ac.bd
+CSE425-05,EEE474,,DPU,MON+WED,8:00 AM,09E-20T,,,,,,shoaib.ahmed@bracu.ac.bd
+CSE425-06,EEE474,,DPU,MON+WED,8:00 AM,09E-20T,,,,,,shoaib.ahmed@bracu.ac.bd
+CSE426-01,,,TSM,MON+WED,12:30 PM,09A-04C,,,,,,mirza.mugdho@bracu.ac.bd
+CSE426-02,,,RFR,SUN+TUE,9:30 AM,09C-13C,,,,,,rifat.rahman@bracu.ac.bd
+CSE427-01,,,CMR,SAT+THU,12:30 PM,09C-16T,"CSYR,CSAB",MON,8:00 AM,09F-27L,,rahman.mofizur@bracu.ac.bd
+CSE427-01,,,DFD,SAT+THU,12:30 PM,09C-16T,"CSYR,CSAB",MON,8:00 AM,09F-27L,,fabian.dofadar@bracu.ac.bd
+CSE427-02,,,CMR,SAT+THU,12:30 PM,09C-16T,"ADU,NLH",TUE,8:00 AM,09F-27L,,rahman.mofizur@bracu.ac.bd
+CSE427-02,,,DFD,SAT+THU,12:30 PM,09C-16T,"ADU,NLH",TUE,8:00 AM,09F-27L,,fabian.dofadar@bracu.ac.bd
+CSE427-03,,,CMR,SAT+THU,12:30 PM,09C-16T,"RZR,NLH",TUE,11:00 AM,09F-27L,,rahman.mofizur@bracu.ac.bd
+CSE427-03,,,DFD,SAT+THU,12:30 PM,09C-16T,"RZR,NLH",TUE,11:00 AM,09F-27L,,fabian.dofadar@bracu.ac.bd
+CSE427-04,,,DFD,SAT+THU,12:30 PM,09C-16T,"CSYR,IRZ",MON,11:00 AM,09F-26L,,fabian.dofadar@bracu.ac.bd
+CSE427-05,,,NWT,SUN+TUE,2:00 PM,09A-07C,"RZR,ADU",MON,11:00 AM,09F-27L,,ext.nowshin.tabassum@bracu.ac.bd
+CSE427-06,,,NAST,MON+WED,9:30 AM,09A-05C,"DFD,TWK",TUE,2:00 PM,09F-27L,,nazmus.touhid@bracu.ac.bd
+CSE427-07,,,FARS,SUN+TUE,8:00 AM,09A-04C,"CQAE,CSAB",MON,2:00 PM,09F-26L,,farhan.shahriar@bracu.ac.bd
+CSE427-08,,,QUZA,SUN+TUE,3:30 PM,07H-27C,"DFD,QUZA",MON,2:00 PM,09F-27L,,quazi.ashikur@bracu.ac.bd
+CSE427-09,,,RKBM,MON+WED,2:00 PM,07F-22C,"RRH,CQAE",TUE,8:00 AM,09B-11L,,mohammad.rakibul@bracu.ac.bd
+CSE427-10,,,RKBM,MON+WED,3:30 PM,07F-22C,"CMHH,CQAE",TUE,11:00 AM,09B-11L,,mohammad.rakibul@bracu.ac.bd
+CSE428-01,EEE476,,MUNR,MON+WED,12:30 PM,09H-33C,"TAV,SHJR",TUE,11:00 AM,09F-26L,,abm.muntasir@bracu.ac.bd
+CSE428-02,EEE476,,MOM,SAT+THU,9:30 AM,09C-13C,"EHQ,UTS",MON,11:00 AM,10G-33L,,moynul.moni@bracu.ac.bd
+CSE428-03,EEE476,,SDQ,MON+WED,3:30 PM,10B-16C,"SDQ,MOM",TUE,2:00 PM,09B-10L,,saiful.bari@bracu.ac.bd
+CSE428-04,EEE476,,EHQ,SUN+TUE,12:30 PM,09A-04C,"AHA,CSSA",MON,8:00 AM,09F-26L,,ehtashamul.haque@bracu.ac.bd
+CSE430-01,,,EHQ,SUN+TUE,3:30 PM,10B-16C,"EHQ,TAV",MON,2:00 PM,12D-26L,,ehtashamul.haque@bracu.ac.bd
+CSE437-01,,,GRA,SAT+THU,2:00 PM,09C-16T,,,,,,rabiul.alam@bracu.ac.bd
+CSE437-02,,,GRA,SAT+THU,2:00 PM,09C-16T,,,,,,rabiul.alam@bracu.ac.bd
+CSE437-03,,,NFF,SAT+THU,2:00 PM,09C-16T,,,,,,ext.nafiz.rafin@bracu.ac.bd
+CSE437-04,,,NFF,SAT+THU,2:00 PM,09C-16T,,,,,,ext.nafiz.rafin@bracu.ac.bd
+CSE440-01,,,FYS,MON+WED,12:30 PM,09C-16T,"MCW,NLH",SUN,11:00 AM,12F-30L,,farig.sadeque@bracu.ac.bd
+CSE440-02,,,NLH,MON+WED,12:30 PM,09C-16T,"MCW,NLH",SUN,11:00 AM,12F-30L,,niloy.farhan@bracu.ac.bd
+CSE440-03,,,NLH,MON+WED,12:30 PM,09C-16T,"AYO,LBBH",TUE,11:00 AM,12F-32L,,niloy.farhan@bracu.ac.bd
+CSE440-04,,,NLH,MON+WED,12:30 PM,09C-16T,"AYO,LBBH",TUE,11:00 AM,12F-32L,,niloy.farhan@bracu.ac.bd
+CSE443-01,,,SWK,MON+WED,8:00 AM,10B-15C,,,,,,swakkhar.shatabda@bracu.ac.bd
+CSE446-01,,,SDF,MON+WED,11:00 AM,10A-04C,"MLH,SJM",TUE,11:00 AM,10E-27L,,sadek.ferdous@bracu.ac.bd
+CSE447-01,,,MIH,MON+WED,11:00 AM,09C-16T,"AKHD,SJM",SAT,8:00 AM,09F-24L,,iqbal.hossain@bracu.ac.bd
+CSE447-02,,,MIH,MON+WED,11:00 AM,09C-16T,"FFU,FDZ",SAT,11:00 AM,09F-24L,,iqbal.hossain@bracu.ac.bd
+CSE447-03,,,MIH,MON+WED,11:00 AM,09C-16T,"FFU,CKMH",SAT,2:00 PM,09F-24L,,iqbal.hossain@bracu.ac.bd
+CSE449-01,,,AAR,SUN+SUN,2:00 PM+3:30 PM,08D-14C,,,,,,annajiat@bracu.ac.bd
+CSE460-01,,,UPM,SUN+TUE,8:00 AM,10B-17C,"SDL,UPM",WED,11:00 AM,09E-22L,,tasnim.upoma@bracu.ac.bd
+CSE460-02,,,UPM,SUN+TUE,9:30 AM,07H-26C,"AKJ,ZIZE",SAT,2:00 PM,09E-21L,,tasnim.upoma@bracu.ac.bd
+CSE460-03,,,SDU,SUN+TUE,11:00 AM,10B-17C,"SDU,ARPD",THU,2:00 PM,09E-21L,,shomen.kundu@bracu.ac.bd
+CSE460-04,,,ARPD,SUN+TUE,3:30 PM,07H-26C,"SDU,UPM",MON,11:00 AM,09E-21L,,ext.arpa.roy@bracu.ac.bd
+CSE460-05,,,THL,MON+WED,8:00 AM,09A-01C,"THL,MTOT",SUN,2:00 PM,10G-32L,,tahsin.alam@bracu.ac.bd
+CSE460-06,,,THL,MON+WED,9:30 AM,10B-17C,"RAS,MTOT",TUE,11:00 AM,09E-21L,,tahsin.alam@bracu.ac.bd
+CSE460-07,,,RAS,MON+WED,12:30 PM,10B-17C,"RAS,ARPD",THU,11:00 AM,09E-21L,,rasel.mia@bracu.ac.bd
+CSE460-08,,,RAS,MON+WED,2:00 PM,09A-01C,"AKJ,DPRN",SAT,11:00 AM,09E-21L,,rasel.mia@bracu.ac.bd
+CSE460-09,,,ZIZE,SAT+THU,11:00 AM,07H-26C,"SDL,MTOT",SUN,8:00 AM,10G-32L,,
+CSE460-10,,,ZIZE,SAT+THU,12:30 PM,09A-01C,"SDU,RAS",WED,8:00 AM,09E-22L,,
+CSE460-11,,,DPRN,SAT+THU,2:00 PM,09A-01C,"THL,RAS",TUE,2:00 PM,09E-21L,,
+CSE460-12,,,DPRN,SAT+THU,9:30 AM,10B-17C,"DPRN,SDL",MON,2:00 PM,09E-21L,,
+CSE461-01,,,UTKR,SAT+THU,9:30 AM,07D-19C,"PRC,RFF",WED,2:00 PM,10G-32L,,
+CSE461-02,,,UTKR,MON+WED,11:00 AM,07D-20C,"RFF,SMYA",THU,2:00 PM,10G-32L,,
+CSE461-03,,,UTKR,MON+WED,12:30 PM,07D-20C,"RDW,SMYA",TUE,11:00 AM,10G-32L,,
+CSE461-04,,,UTKR,MON+WED,3:30 PM,09A-06C,"UTKR,CSAB",THU,11:00 AM,10G-32L,,
+CSE461-05,,,RFF,SAT+THU,11:00 AM,09A-07C,"KHR,PRC",MON,11:00 AM,10G-32L,,
+CSE461-06,,,KHR,MON+WED,3:30 PM,09C-16T,"KHR,CPTH",SUN,11:00 AM,10G-32L,,
+CSE461-07,,,KHR,MON+WED,3:30 PM,09C-16T,"CPTH,CSAB",SAT,8:00 AM,10G-32L,,
+CSE461-08,,,KHR,MON+WED,3:30 PM,09C-16T,"UTKR,PRC",SAT,11:00 AM,10G-32L,,
+CSE463-01,,,ASA,SAT+THU,3:30 PM,10B-16C,"STNM,CSAB",TUE,2:00 PM,12F-32L,,
+CSE470-01,,,SHRR,SUN+TUE,9:30 AM,10B-16C,,,,,,
+CSE470-02,,,SHRR,SUN+TUE,11:00 AM,10B-16C,,,,,,
+CSE470-03,,,FZN,SUN+TUE,2:00 PM,09H-32C,,,,,,
+CSE470-04,,,FZN,SUN+TUE,3:30 PM,09H-32C,,,,,,
+CSE470-05,,,FZN,MON+WED,2:00 PM,09C-13C,,,,,,
+CSE470-06,,,FZN,MON+WED,3:30 PM,09C-13C,,,,,,
+CSE470-07,,,RHD,MON+WED,8:00 AM,10B-16C,,,,,,
+CSE470-08,,,RHD,MON+WED,9:30 AM,10B-16C,,,,,,
+CSE470-09,,,NAFR,MON+WED,8:00 AM,09C-13C,,,,,,
+CSE470-10,,,NAFR,MON+WED,9:30 AM,09C-13C,,,,,,
+CSE470-11,,,SADA,MON+WED,8:00 AM,09A-02C,,,,,,
+CSE470-12,,,SADA,MON+WED,9:30 AM,09A-02C,,,,,,
+CSE470-13,,,SOSB,MON+WED,8:00 AM,07D-19C,,,,,,
+CSE470-14,,,SOSB,MON+WED,9:30 AM,07D-19C,,,,,,
+CSE470-15,,,ART,SAT+THU,12:30 PM,09C-13C,,,,,,
+CSE470-16,,,ART,MON+WED,12:30 PM,09A-03C,,,,,,
+CSE470-17,,,ART,SAT+THU,11:00 AM,09C-13C,,,,,,
+CSE470-18,,,SKIB,SAT+THU,3:30 PM,09A-02C,,,,,,
+CSE470-19,,,ALB,SAT+THU,8:00 AM,09A-03C,,,,,,
+CSE470-20,,,PLN,SAT+THU,2:00 PM,09D-17C,,,,,,
+CSE470-21,,,MAHS,SAT+THU,2:00 PM,09A-07C,,,,,,
+CSE471-01,,,MIH,SUN+TUE,3:30 PM,10A-05C,"AQU,KZMN",THU,11:00 AM,09E-22L,,
+CSE471-02,,,MHDE,MON+WED,11:00 AM,09A-06C,"AWK,AJK",SUN,11:00 AM,12D-26L,,
+CSE471-03,,,KZMN,SAT+THU,9:30 AM,10A-10C,"WHMJ,CSYR",WED,11:00 AM,12F-32L,,
+CSE471-04,,,AQU,MON+WED,2:00 PM,09H-35C,"SADA,AJK",SAT,8:00 AM,09E-22L,,
+CSE471-05,,,AQU,MON+WED,3:30 PM,09H-35C,"CSSN,AJK",SAT,11:00 AM,09E-22L,,
+CSE471-06,,,KZMN,SUN+TUE,8:00 AM,09H-32C,"ART,CKMH",THU,2:00 PM,09E-22L,,
+CSE471-07,,,KZMN,SUN+TUE,9:30 AM,09H-32C,"SADA,AJK",THU,8:00 AM,09E-22L,,
+CSE471-08,,,MHDE,SAT+THU,9:30 AM,10B-16C,"WHMJ,CSYR",WED,8:00 AM,12F-32L,,
+CSE471-09,,,MHDE,SAT+THU,11:00 AM,10B-16C,"PLN,IRZ",SUN,2:00 PM,12D-26L,,
+CSE471-10,,,MHDE,MON+WED,9:30 AM,09A-06C,"ART,CSSN",SAT,2:00 PM,09E-22L,,
+CSE471-11,,,NAST,SAT+THU,8:00 AM,09A-07C,"PLN,AWK",MON,11:00 AM,12F-30L,,
+CSE471-12,,,NAST,SAT+THU,9:30 AM,09A-07C,"CSSN,AWK",MON,2:00 PM,12F-30L,,
+CSE471-13,,,NAST,MON+WED,8:00 AM,09A-05C,"CABS,AWK",TUE,8:00 AM,12F-30L,,
+CSE471-14,,,WHMJ,SAT+THU,3:30 PM,09H-34C,"CABS,AJK",TUE,11:00 AM,12F-30L,,
+CSE472-01,,,FDC,MON+WED,2:00 PM,10B-16C,"MAU,UJT",TUE,2:00 PM,12F-30L,,
+CSE481-01,,,SDS,MON+WED,8:00 AM,10A-04C,"SDS,NFS",THU,8:00 AM,09B-10L,,
+CSE489-01,,,ADR,TUE+TUE,11:00 AM+12:30 PM,FT11-04L,"CPTH,ADR",SUN,2:00 PM,FT11-04L,,
+CSE490A-01,,,MSA,SAT+THU,2:00 PM,09A-04C,,,,,,
+CSE490B-01,,,TLQ,MON+WED,3:30 PM,10A-05C,"ZMD,SJM",SUN,2:00 PM,10G-34L,,
+CSE490C-01,,,SDAS,SUN+TUE,2:00 PM,07H-27C,"SDAS,NFS",THU,2:00 PM,12D-26L,,
+CSE490D-01,,,TAV,MON+WED,8:00 AM,09A-06C,,,,,,
+CSE708-01,,,KYK,MON+MON,6:00 PM+7:30 PM,08H-26C,,,,,,
+CSE710-01,,,GRA,SAT+SAT,6:00 PM+7:30 PM,08B-10C,,,,,,
+CSE711-01,,,GRA,MON+MON,6:00 PM+7:30 PM,08H-27C,,,,,,
+CSE713-01,,,AAR,SUN+SUN,6:00 PM+7:30 PM,08F-22C,,,,,,
+CSE715-01,,,MMM,SAT+SAT,6:00 PM+7:30 PM,08D-12C,,,,,,
+CSE717-01,,,KYK,TUE+TUE,6:00 PM+7:30 PM,08H-22C,,,,,,
+CSE721-01,#N/A,#N/A,MIH,TUE+TUE,6:00 PM+7:30 PM,09A-01C,,,,,,
+CSE722-01,#N/A,#N/A,SDF,SUN+SUN,6:00 PM+7:30 PM,09A-01C,,,,,,
+CSE724-01,#N/A,#N/A,MHZA,THU+THU,6:00 PM+7:30 PM,08D-17C,,,,,,
+CSE726-01,#N/A,#N/A,TLQ,MON+MON,6:00 PM+7:30 PM,09A-02C,,,,,,
+CSE751-01,#N/A,#N/A,FYS,TUE+TUE,6:00 PM+7:30 PM,08H-25C,,,,,,
+CSE754-01,#N/A,#N/A,ASA,WED+WED,6:00 PM+7:30 PM,09A-01C,,,,,,
+CSE756-01,#N/A,#N/A,IBU,WED+WED,6:00 PM+7:30 PM,09A-02C,,,,,,
+CSE761-01,#N/A,#N/A,GRA,THU+THU,6:00 PM+7:30 PM,08D-12C,,,,,,
+CSE763-01,#N/A,#N/A,SWK,TUE+TUE,6:00 PM+7:30 PM,08H-26C,,,,,,
+CSE772-01,#N/A,#N/A,TBC,THU+THU,6:00 PM+7:30 PM,09B-10L,,,,,,
+CSE773-01,#N/A,#N/A,TLQ,WED+WED,6:00 PM+7:30 PM,09A-04C,,,,,,
+CSE791-01,#N/A,#N/A,DNVN,SAT+SAT,6:00 PM+7:30 PM,08D-17C,,,,,,
+CSE799A-01,,,MSA,SAT+THU,3:30 PM,09A-04C,,,,,,
+EEE362-01,,CSE320,XXX,XXX,11:00 AM,XXX,MHM,SAT,2:00 PM,FT11-03L,,
