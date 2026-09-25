@@ -1,0 +1,91 @@
+﻿,OFFERED,Course Code,Course Title,Course Outline,Prerequisite,Initial,Faculty Name,Faculty Email
+AT LEAST ONE COURSE MUST BE DONE FROM CSE; OTHERS CAN BE FROM ANY DEPARTMENT AS LONG AS THEY ARE VALID TO BE TAKEN -> <TBA>,,,,,,The faculty list only talks about possible faculties taking the course. It does not represent the number of sections. It does not mean all faculties are taking courses,,
+1,ACTIVE,CSE250,CIRCUITS AND ELECTRONICS,Email Course Faculties,,"FFR,HMH,PDS,SDS,TAV,AKDB,MHY,RAO,SEF","Md. Fatin Ishraq Faruqui, Mir Hamidul Hussain, Mr. Purbayan Das, Mr. Shadman Shahriar, Tarvir Anjum Aditto, Angkon Deb, Abu Musa Al Ashary, Mohammed Radoan, Sheikh Iftekhar Ahmed","md.fatin@bracu.ac.bd, hamidul.hussain@bracu.ac.bd, purbayan.das@bracu.ac.bd, shadman.shahriar@bracu.ac.bd, tarvir.anjum@bracu.ac.bd, ext.angkon.deb@bracu.ac.bd, ext.abu.musa@bracu.ac.bd, ext.mohammed.radoan@bracu.ac.bd, ext.sheikh.ahmed@bracu.ac.bd"
+2,ACTIVE,CSE251,ELECTRONIC DEVICES AND CIRCUITS,Email Course Faculties,CSE250,"AKJ,AQT,EHQ,FFR,HMH,MOM,PDS,RAO,SEF","Akib Anjum, Aniqa Tabassum, Ehtashamul Haque, Md. Fatin Ishraq Faruqui, Mir Hamidul Hussain, Md. Moynul Asik Moni, Mr. Purbayan Das, Mohammed Radoan, Sheikh Iftekhar Ahmed","anjum.akib@bracu.ac.bd, aniqa.tabassum@bracu.ac.bd, ehtashamul.haque@bracu.ac.bd, md.fatin@bracu.ac.bd, hamidul.hussain@bracu.ac.bd, moynul.moni@bracu.ac.bd, purbayan.das@bracu.ac.bd, ext.mohammed.radoan@bracu.ac.bd, ext.sheikh.ahmed@bracu.ac.bd"
+3,INACTIVE,CSE310,Object-Oriented Programming,Email Course Faculties,CSE370,,,
+4,ACTIVE,CSE320,DATA COMMUNICATIONS,Email Course Faculties,,"AKTD,FGZ,MSAH,NTR,SHAH,SRJ,TAP,YND,MAFZ","Md. Akhtaruzaman Adnan, Mr. Md. Fakhruddin Gazzali, Dr. Md. Sakir Hossain, Ms. Narzu Tarannum, Asif Shahriar, Ms. Mehnaz Seraj, Ms. Tasnim Ahsan Prome, Yasmin Nadia, Mehnaz Ara Fazal","akhtaruzzaman.adnan@bracu.ac.bd, fakhruddin.gazzali@bracu.ac.bd, sakir.hossain@bracu.ac.bd, narzu.tarannum@bracu.ac.bd, asif.shahriar@bracu.ac.bd, seraj.mehnaz@bracu.ac.bd, tasnim.ahsan@bracu.ac.bd, yasmin.nadia@bracu.ac.bd, ext.mehnaz.fazal@bracu.ac.bd"
+5,ACTIVE,CSE341,MICROPROCESSORS,Email Course Faculties,,"FFU,NHBN,RAHA,RKN,UJT,MHSK","Farhan Faruk, Hamim Ibne Nasim, Farzana Reefat Raha, Raisul Kabir News, Umme Jannat Taposhi, Maharin Mosfakin","farhan.faruk@bracu.ac.bd, hamim.nasim@bracu.ac.bd, reefat.raha@bracu.ac.bd, raisul.kabir@bracu.ac.bd, jannat.taposhi@bracu.ac.bd, ext.maharin.mosfakin@bracu.ac.bd"
+77,INACTIVE,CSE342,Computer System Engineering,Email Course Faculties,,,,
+7,ACTIVE,CSE350,DIGITAL ELECTRONICS AND PULSE TECHNIQUES,Email Course Faculties,CSE251,"NUR,SZZ,ZAZ,ZBH,ARA","Nur Mohammad Shaon, Sazzadul Islam, Ihzaz Abrar Sadik, Md Zayed Bin Zahir Arju, Md Ashikur Rahman Any","nur.shaon@bracu.ac.bd, sazzadul.islam@bracu.ac.bd, ihzaz.sadik@bracu.ac.bd, zayed.zahir@bracu.ac.bd, ext.rahman.ashikur@bracu.ac.bd"
+8,ACTIVE,CSE360,COMPUTER INTERFACING,Email Course Faculties,CSE341,"ASA,RDW,SHBK,SRU,UJT","Dr. Md. Ashraful Alam, Redowanul Akbar, Sahib Kowsar, Mr. Shakir Rouf, Umme Jannat Taposhi","ashraful.alam@bracu.ac.bd, redowanul.akbar@bracu.ac.bd, sahib.kowsar@bracu.ac.bd, shakir.rouf@bracu.ac.bd, jannat.taposhi@bracu.ac.bd"
+9,INACTIVE,CSE390,Technical Communication,Email Course Faculties,,,,
+10,ACTIVE,CSE391,Programming for the Internet,Email Course Faculties,CSE370,ADR,Mr. Md. Abdur Rahman,abdur.rahman@bracu.ac.bd
+78,INACTIVE,CSE392,Signals and Systems,Email Course Faculties,,,,
+12,ACTIVE,CSE402,Optimization,Email Course Faculties,,NFS,Nafis Faisal,nafis.faisal@bracu.ac.bd
+79,INACTIVE,CSE410,Advanced Programming in UNIX,Email Course Faculties,,,,
+50,INACTIVE,CSE419,Programming Languages and Competitive Programming,Email Course Faculties,,,,
+15,ACTIVE,CSE424,Pattern Recognition,Email Course Faculties,,"AAR,SBHN","Mr. Annajiat Alim Rasel, Mr. Md Sabbir Hossain","annajiat@bracu.ac.bd, sabbir.hossain@bracu.ac.bd"
+16,ACTIVE,CSE425,Neural Network,Email Course Faculties,,"MMM,RRH","Mr. Moin Mostakim, Mr. Rafeed Rahman","mostakim@bracu.ac.bd, rahman.rafeed@bracu.ac.bd"
+17,ACTIVE,CSE426,Advanced Algorithms,Email Course Faculties,,"RFR,TSM","Md. Rifat Rahman, Mr. Mirza Md. Tanjim Shorif Mugdho","rifat.rahman@bracu.ac.bd, mirza.mugdho@bracu.ac.bd"
+18,ACTIVE,CSE427,Machine Learning,Email Course Faculties,,"CMR,DFD,NAST,NDT,QUZA,NWT","Dr. Chowdhury Mofizur Rahman, Mr. Dibyo Fabian Dofadar, Nazmus Sakib Touhid, NIRJHOR DATTA, Quazi Ashikur Rahman, Nowshin Tabassum","rahman.mofizur@bracu.ac.bd, fabian.dofadar@bracu.ac.bd, nazmus.touhid@bracu.ac.bd, nirjhor.datta@bracu.ac.bd, quazi.ashikur@bracu.ac.bd, ext.nowshin.tabassum@bracu.ac.bd"
+19,ACTIVE,CSE428,Image Processing,Email Course Faculties,,"EHQ,MOM,MUNR,SDQ","Ehtashamul Haque, Md. Moynul Asik Moni, A B M Muntasir Rahman, Mr. Md. Saiful Bari Siddiqui","ehtashamul.haque@bracu.ac.bd, moynul.moni@bracu.ac.bd, abm.muntasir@bracu.ac.bd, saiful.bari@bracu.ac.bd"
+80,INACTIVE,CSE429,Basic Multimedia Theory,Email Course Faculties,,,,
+21,ACTIVE,CSE430,Digital Signal Processing,Email Course Faculties,,,,
+9,INACTIVE,CSE431,Natural Langauge Processing,Email Course Faculties,,,,
+82,INACTIVE,CSE432,Speech Recognition and Synthesis,Email Course Faculties,,,,
+24,INACTIVE,CSE433,Machine Learning for Healthcare,Email Course Faculties,,,,
+25,INACTIVE,CSE434,Machine Learning for Finance,Email Course Faculties,,,,
+26,INACTIVE,CSE435,Reinforcement Learning,Email Course Faculties,,,,
+27,INACTIVE,CSE435,Data Visualization,Email Course Faculties,,,,
+28,ACTIVE,CSE437,Data Science: Coding With Real-World Data,Email Course Faculties,,"GRA,KKS,NBD,SADF,SBB","Dr. Md. Golam Rabiul Alam, Md. Khaliduzzaman Khan Samrat, Dr. Badhan Das, Saadat Rafid Ahmed, Md. Sabbir Ahmed","rabiul.alam@bracu.ac.bd, md.khaliduzzaman@bracu.ac.bd, badhan.das@bracu.ac.bd, saadat.ahmed@bracu.ac.bd, sabbir.ahmed@bracu.ac.bd"
+29,INACTIVE,CSE438,Applied Data Science for Practitioners,Email Course Faculties,,,,
+30,INACTIVE,CSE439,Machine Vision,Email Course Faculties,,,,
+31,ACTIVE,CSE440,Natural Language Processing (NLP) II,Email Course Faculties,,"FYS,NLH","Dr. Farig Yousuf Sadeque, Niloy Farhan","farig.sadeque@bracu.ac.bd, niloy.farhan@bracu.ac.bd"
+32,INACTIVE,CSE441,Machine Learning II,Email Course Faculties,,,,
+33,INACTIVE,CSE442,Natural Language-Driven UI/UX (NLI / NLUX / NLUI),Email Course Faculties,,,,
+34,ACTIVE,CSE443,Bioinformatics I,Email Course Faculties,,"ANWE,SWK","Abdullah Nayem Wasi Emran, Dr. Swakkhar Shatabda","abdullah.nayem@bracu.ac.bd, swakkhar.shatabda@bracu.ac.bd"
+35,INACTIVE,CSE444,Bioinformatics II,Email Course Faculties,,,,
+36,INACTIVE,CSE445,Statistical Data Analysis,Email Course Faculties,,,,
+37,ACTIVE,CSE446,Blockchain and Cryptocurrencies,Email Course Faculties,,BDH,Mr. Mohammad Badrul Hossain,badrul.hossain@bracu.ac.bd
+38,ACTIVE,CSE447,Cryptography and Cryptoanalysis,Email Course Faculties,,MIH,Dr. Muhammad Iqbal Hossain,iqbal.hossain@bracu.ac.bd
+39,ACTIVE,CSE449,"Parallel, Distributed, and High-performance Computing (HPC)",Email Course Faculties,,AAR,Mr. Annajiat Alim Rasel,annajiat@bracu.ac.bd
+,ACTIVE,CSE449,"Parallel, Distributed and High-Performance Computing (HPC)",Email Course Faculties,,AAR,Mr. Annajiat Alim Rasel,annajiat@bracu.ac.bd
+41,INACTIVE,CSE450,Advanced Competitive Programming,Email Course Faculties,"CSE221
+50+ problem solved on online judges",,,
+42,INACTIVE,CSE451,Network Science and Models,Email Course Faculties,,,,
+43,INACTIVE,CSE452,Computability and Complexity Theory,Email Course Faculties,,,,
+44,INACTIVE,CSE453,Theory of Computation II,Email Course Faculties,,,,
+45,INACTIVE,CSE454,Advanced Complexity Theory,Email Course Faculties,,,,
+46,INACTIVE,CSE455,Topics in Theoretical Computer Science,Email Course Faculties,,,,
+47,INACTIVE,CSE456,Design and Analysis of Algorithms,Email Course Faculties,,,,
+48,INACTIVE,CSE457,Randomized Algorithms,Email Course Faculties,,,,
+49,INACTIVE,CSE458,Quantum Complexity Theory,Email Course Faculties,,,,
+50,INACTIVE,CSE459,Introduction to Computational Molecular Biology,Email Course Faculties,,,,
+51,ACTIVE,CSE460,VLSI DESIGN,Email Course Faculties,CSE260,"AKJ,ARPD,SDL,ANB,MTOT","Akib Anjum, Arpa Roy Dastider, Shadmin Sultana, Not Found, Md Toky Tazwar","anjum.akib@bracu.ac.bd, arpa.roy@bracu.ac.bd, shadmin.sultana@bracu.ac.bd, Not Found, ext.toky.tazwar@bracu.ac.bd"
+52,ACTIVE,CSE461,INTRODUCTION TO ROBOTICS,Email Course Faculties,CSE260,"KHR,RFF,UTKR,CSSA","Dr. Md. Khalilur Rahman, Rafid Ahnaf, Utsha Kumar Roy, Sadman Sakib Alif","khalilur@bracu.ac.bd, rafid.ahnaf@bracu.ac.bd, utsha.roy@bracu.ac.bd, ext.sadman.alif@bracu.ac.bd"
+83,INACTIVE,CSE462,Fault Tolerance System,Email Course Faculties,,,,
+,ACTIVE,CSE463,Computer Vision: Fundamentals and Applications,Email Course Faculties,,ASA,Dr. Md. Ashraful Alam,ashraful.alam@bracu.ac.bd
+55,ACTIVE,CSE471,SYSTEM ANALYSIS AND DESIGN,Email Course Faculties,CSE370,"AQU,KZMN,MAHS,MHDE,MIH,NAHC,NAST","Mr. Md. Aquib Azmain, Kazi Kamruzzaman Rabbi, Md Arif Hasan, Mehedi Hasan Emo, Dr. Muhammad Iqbal Hossain, Asif Hasan Chowdhury, Nazmus Sakib Touhid","aquib.azmain@bracu.ac.bd, kazi.kamruzzaman@bracu.ac.bd, arif.hasan@bracu.ac.bd, mehedi.emo@bracu.ac.bd, iqbal.hossain@bracu.ac.bd, asif.hasan@bracu.ac.bd, nazmus.touhid@bracu.ac.bd"
+56,ACTIVE,CSE472,Human Computer Interface,Email Course Faculties,,FDC,Dr. Farida Chowdhury,farida.chowdhury@bracu.ac.bd
+84,INACTIVE,CSE473,Financial Engineering & Technology,Email Course Faculties,,,,
+58,INACTIVE,CSE474,Simulation and Modeling,Email Course Faculties,,,,
+59,ACTIVE,CSE481,Quantum Computing I,Email Course Faculties,,,,
+88,INACTIVE,CSE482,Quantum Computing II,Email Course Faculties,,,,
+61,INACTIVE,CSE483,Software Engineering II,Email Course Faculties,,,,
+62,INACTIVE,CSE484,Cloud Computing,Email Course Faculties,CSE321,,,
+63,INACTIVE,CSE485,Advanced Cloud Computing,Email Course Faculties,,,,
+64,INACTIVE,CSE486,WAN Routing and Technologies,Email Course Faculties,,,,
+65,INACTIVE,CSE486,LAN Switching and WAN Technologies,Email Course Faculties,,,,
+66,INACTIVE,CSE487,Web Services,Email Course Faculties,,,,
+67,INACTIVE,CSE488,Serverless and Microservices,Email Course Faculties,,,,
+68,ACTIVE,CSE489,Android App Development,Email Course Faculties,CSE370,ADR,Mr. Md. Abdur Rahman,abdur.rahman@bracu.ac.bd
+,ACTIVE,CSE490A,GAMIFICATION: ENGINEERING USER ENGAGEMENT,Email Course Faculties,,MSA,Dr. Matin Saad Abdullah,mabdullah@bracu.ac.bd
+,ACTIVE,CSE490B,INTRODUCTION TO CYBERSECURITY,Email Course Faculties,,SDF,Dr. Md Sadek Ferdous,sadek.ferdous@bracu.ac.bd
+,INACTIVE,CSE490C,QUANTUM COMPUTING III,Email Course Faculties,,,,
+,ACTIVE,CSE490D,INTRODUCTION TO FOOTBALL DATA AND ANALYTICS,Email Course Faculties,,TAV,Tarvir Anjum Aditto,tarvir.anjum@bracu.ac.bd
+73,INACTIVE,CSE492,iOS App Development,Email Course Faculties,,,,
+74,INACTIVE,CSE493,Enterprise and Software Architecture,Email Course Faculties,,,,
+75,INACTIVE,CSE494,Advanced Robotics,Email Course Faculties,,,,
+76,INACTIVE,CSE495,Internet of Things (IoT),Email Course Faculties,,,,
+77,INACTIVE,CSE496,Ethical hacking,Email Course Faculties,,,,
+78,INACTIVE,CSE497,Computational Cognitive Science,Email Course Faculties,,,,
+79,INACTIVE,CSE498,Advanced Graphics,Email Course Faculties,,,,
+80,INACTIVE,CSE499,E-commerce,Email Course Faculties,,,,
+81,INACTIVE,CSE500,Ethics of Data in Social Context,Email Course Faculties,,,,
+82,INACTIVE,CSE502,Scientific and Engineering Innovation: Moving Ideas to Impact,Email Course Faculties,,,,
+83,INACTIVE,CSE503,Project Engineering for Computer Science,Email Course Faculties,,,,
+84,INACTIVE,CSE504,Workshop for Entrepreneurs and Innovators in the Physical and Computer Sciences,Email Course Faculties,,,,
+85,INACTIVE,CSE505,"Patents, Copyrights, and Intellectual Property Law for Physical and Computer Scientists",Email Course Faculties,,,,
+86,INACTIVE,CSE506,Ethics for Engineers and Scientists,Email Course Faculties,,,,
+87,INACTIVE,CSE507,Introduction to Design Thinking and Innovation in Engineering,Email Course Faculties,,,,
+88,INACTIVE,CSE586,Advanced Web Development,Email Course Faculties,,,,
