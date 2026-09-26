@@ -7,4 +7,8 @@ If you paste the same link with 1 extra word 'htmlview'
     then it will work
     in this script....
 
-    
+
+
+
+Piracy:
+- Check `github/REYNEP/idk/REYNEP's Journals/piracy/piracy.md`

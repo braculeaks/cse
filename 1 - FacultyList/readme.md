@@ -4,6 +4,8 @@
     1. hugely WIP
     2. don't trust this shit
 3. Summer 2026: Teachers + Consulation Hours List: https://docs.google.com/spreadsheets/d/1uCpxARIPFmkhL1BdzCL5dXmxO5CbNbFkKrgOCmUM6cA
+4. All Faculty List & Desk Map
+    - https://docs.google.com/spreadsheets/d/1PlgZ5Z6PpRd75Hqp5vbx4UvEXCK_Vhw8TdQLvAYXmjw/edit?gid=1172348562#gid=1172348562
 
 
 

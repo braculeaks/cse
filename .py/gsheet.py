@@ -25,7 +25,7 @@ from pathlib import Path
 from playwright.async_api import async_playwright
 
 # Remember to paste the htmlview link here
-DEFAULT_URL = "https://docs.google.com/spreadsheets/d/1-JM6a-JM4y4TiqMv9M4OXMBTnIAbn0lhsvfVGlfR1OU/htmlview"
+DEFAULT_URL = "https://docs.google.com/spreadsheets/d/1PlgZ5Z6PpRd75Hqp5vbx4UvEXCK_Vhw8TdQLvAYXmjw/htmlview"
 
 
 # ---------- helpers ----------
