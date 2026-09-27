@@ -22,6 +22,9 @@
     - https://saadat-r-ahmed.notion.site/
     - https://atonurc.github.io/
 - CSE Hardware Course Resources by Samin: [GDrive](https://drive.google.com/drive/folders/1ETfCa_NAa3dNn0ozWSY7JUsHWSSp9gdT)
+    - Fully Processed
+        - Except for cse350 & cse460. Those I just downloaded and saved the .zip in my PC
+        - will sort later, when i finish 251 & push to github
 - CSE Course Playlists Directory: [GDocs](https://docs.google.com/spreadsheets/d/1_wSiAzh9iBO2Dktt_V1rGAyJGvRRr-TQyUzuLPNmFSo)
 - CSE Previous Questions: [GDrive](https://drive.google.com/drive/folders/1pN0NJCwO5CstJKcrg09EDakawyRBAFsE)
 - https://www.boracle.app/dashboard/course-materials
