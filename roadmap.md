@@ -13,16 +13,27 @@
 4. cse221 + cse340 + cse251 + cse331 + cse370 [trying]
 5. cse330 + cse341 + cse321 + cse320 + cse423 + cse428 [idk]
 6. RS
-7. cse426 + cse360 + cse420 + cse421 + cse470 + cse422 [idk]
+7. cse426 + cse360 + cse420 + cse421 + cse470 + cse422 [idk] + cse471 + cse460 + cse461 + cse350
+```
+
+### REYNEP's Recommened flow v3 / REYNEP's Target
+```py
+01. cse110 + cse230 + cse260 + cse250 + (try studying cse340 @ home)
+02. cse111 +        + cse340 + cse251 + cse320/mat212
+03. cse220 +        + cse341 +        + cse320/mat212   + cse421/cse423
+04. cse221 + cse330 + cse360 +                          + cse421/cse423
+05. cse331 +        + cse461 + cse350 + cse370          + cse422
+06. RS
+07. cse420 +        + cse460 +        + cse470 + cse471 + cse321
 ```
 
 ### REYNEP's Recommened flow v2
 ```py
 01. cse110 + cse230 +        + mat110 + (try studying mat120 @ home)
 02. cse111 + cse260 + cse250 + mat120 + (try studying cse340 @ home)
-03. cse220 + cse320 + cse251 + mat216 + (try studying cse221 @ home)
-04. cse221 + cse340 + cse423 + cse421 + (try studying cse341 @ home)
-05. cse331 + cse341 + cse370 + cse330 + cse422
+03. cse220 + cse340 + cse251 + mat216 + (try studying cse221 @ home)
+04. cse221 + cse320 + cse370 + cse423 + (try studying cse341 @ home)
+05. cse331 + cse341 + cse421 + cse330 + cse422
 06. cse321 + cse360 + 
 07. cse420 + cse460 + cse470
 08.        + cse461 + cse471 + cse350

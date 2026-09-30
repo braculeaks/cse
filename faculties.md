@@ -1,10 +1,11 @@
 # links
 1. https://connect-dumps.itzmrz.xyz/
 2. https://bracu-faculty-reviews.vercel.app/
+3. https://script.google.com/macros/s/AKfycbwmKr9tLge2J0akoChCpeAsLoDHFMW7h2rwoIjYecSff3NnnM9UWzJ-h-oGNmhDduVP/exec
     1. hugely WIP
     2. don't trust this shit
-3. Summer 2026: Teachers + Consulation Hours List: https://docs.google.com/spreadsheets/d/1uCpxARIPFmkhL1BdzCL5dXmxO5CbNbFkKrgOCmUM6cA
-4. All Faculty List & Desk Map
+4. Summer 2026: Teachers + Consulation Hours List: https://docs.google.com/spreadsheets/d/1uCpxARIPFmkhL1BdzCL5dXmxO5CbNbFkKrgOCmUM6cA
+5. All Faculty List & Desk Map
     - https://docs.google.com/spreadsheets/d/1PlgZ5Z6PpRd75Hqp5vbx4UvEXCK_Vhw8TdQLvAYXmjw/edit?gid=1172348562#gid=1172348562
 
 
@@ -16,10 +17,10 @@
 # Summaries
 
 ### cse110 / cse111
-- TAW > MAU/SLAR/KNI/AFA >> RKBM/ANKH/TMD > QUZA/ANWE > ADU/AVB/SDTS/STNM > ANK/ATY >> AIB/RAK
+- TAW > MAU/SLAR/AFA/ANKH >> KNI/TMD/CAKM > QUZA/ANWE > ADU/RKBM/ATY/AVB > SDTS/STNM/MAF > ANK >> ZMD/AIB/RAK
 
 ### cse230
-- PSMD >>> NZRF/YND/SLAR/MAJIJ > ANWE > QUZA/FARS/KBS > AVB/FIC >>>>>> TSM
+- PSMD >>> NZRF/YND/SLAR/MAJIJ > ANWE > QUZA/FARS/KBS > AVB/FIC >>>>>> TSM > BDAS
 
 ### cse220
 - SHBZ >> MAHR > IRZA/HFN > KKS/AJA > TRZA/NHBN > SWG >>>> AIB/RAK/MDF
@@ -31,10 +32,13 @@
 - TAV >>> SDAS/HMH > PDS > SDS/SEF > RAO/AQT >>> TSE
 
 ### cse260
-- NLH >> MAJIJ/SUE/LMI > PBK > ADD > TWK/MSMA/AFQ > RFF > DZK >>>> MDF
+- NLH >> MAJIJ/SUE/LMI > PBK > ADD > TWK/MSMA/AFQ > MAO/RFF/DZK >>>> MDF
 
 ### cse331
-- RSS > ZYH/KKP
+- FDM >>> ZYH > KKP > RFR > RSS
+
+### cse370
+- FEK >>> 
 
 ### mat216
 - EMNH > KHZ > PSD > RMH > jainna ar kichu
@@ -95,13 +99,22 @@
         - Reviews:
             - https://www.facebook.com/groups/bracufacultyreview/posts/1243784260713524
 
-6. **AVB** - Avinandan Banarjee
+6. **CAKM** - Anika Islam
+    - Theory Explanations: 9/10 (probably)
+    - Marking: 10/10 (probably)
+    - Behavior: 15/10
+        - Reviews:
+            - https://www.facebook.com/groups/400468005045158/permalink/1668905534868059
+            - These ratings are based on her First Semester taking Theory Courses.
+            - Which was Summer 2026
+
+7. **AVB** - Avinandan Banarjee
     - Theory Explanations: 7/10
     - Marking: 7/10
     - Behavior: 10/10
     - Resources: 10/10
 
-7. **RKBM** - Rakibul Hasan Mahin
+8. **RKBM** - Rakibul Hasan Mahin
     - Theory Explanations: 8/10
     - Marking: 5/10
     - Behavior: 5/10
@@ -117,7 +130,7 @@
             2. facebook.com/groups/bracufacultyreview/posts/1361350182290264
             3. facebook.com/groups/bracufacultyreview/posts/1242912370800713
 
-8. **ADU** - Ahmed Mahir Ruhan
+9.  **ADU** - Ahmed Mahir Ruhan
     - Theory Explanations: 8/10
     - Marking: 8/10
     - Behavior: 5/10
@@ -132,7 +145,7 @@
             - facebook.com/groups/bracufacultyreview/posts/1143728730719078
             - facebook.com/ruhan.mahir
 
-9. **QUZA** - Quazi Ashikur Rahman
+10. **QUZA** - Quazi Ashikur Rahman
     - Theory Explanations: 7/10
         - [-1] Indentation Bad
         - [-1] says 'Exit' instead of 'Exceed'
@@ -148,23 +161,33 @@
                 <img src="https://hackmd.io/_uploads/B1_gLocGbe.png" width="100" />
             </div>
 
-10. **SDTS** / **STNM** - Sanjida Tasnim
+11. **SDTS** / **STNM** - Sanjida Tasnim
     - Theory Explanations: 8/10 (fall 2025)
     - Marking: 7/10
     - Behavior: 7/10
     - Resource: 5/10
 
-11. **ANK** - Abdullah Al Nakib
-    - Theory Explanations: 3/10
-    - Marking: 6/10
+12. **ANK** - Abdullah Al Nakib
+    - Theory Explanations: 5/10
+    - Marking: 9/10
     - Behavior: 8/10
-    - Resource: 5/10
-        - Code Skills: 0/10
+    - Resource: 4/10
+        - Quality: 2/10
+            - Resources aren't up to the hope.... 🐸
+        - Code Skills: 2/10
             - It looks weird. Bad Indentation.
+            - Bad Indentation is main reason why he is far behind everyone in the cse110/111 list
         - Reviews:
             - fb.com/groups/bracufacultyreview/posts/1354136456344970
+    - Everyone is a fan of him, why is he behind in my list?
+        - Because
+            1. He promises BONUS Marks. Then doesn't give bonus @ the end of semester.
+            2. Sometimes he does mistake in Grading Answer Scripts. 
+                - Like, Amar ekbar ekjoner ekta Thik Tracing, vul set er shathe milay felche 
+                - Then Medical leave e chole geche summer 2026. khata ar dekhte dey nai. 
+                - That person got 85 without those tracing marks in cse111  
 
-12. **ATY** - Ateya Ahmed Subarna
+13. **ATY** - Ateya Ahmed Subarna
     - Theory Explanations:
     - Marking:
     - Behavior:
@@ -206,6 +229,11 @@
     - Behavior: 3/10
     - Resource:
         - He is a Terror @ BRACU
+
+15. **ZMD** - Zaber Mohammed
+    - Marking: 3/10
+    - Behavior: 5/10
+    - https://www.facebook.com/groups/633622146668837/permalink/27623520300585656/
 
 
 - **SHDM** - Shadman Wadith - (Gone for Ph.D.)
